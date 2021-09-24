@@ -1,0 +1,1958 @@
+[
+  {
+    "uuid": "0b4088c7-b8f2-4f27-b043-b7e8a5127be6",
+    "text": "The presence of an alternative option will produce a competing, covert influence on participants",
+    "notes": "",
+    "modified": "2020-10-29T23:47:54.672877Z",
+    "dataset": "manual_perturbations",
+    "tokens": [
+      "The",
+      "presence",
+      "of",
+      "an",
+      "alternative",
+      "option",
+      "will",
+      "produce",
+      "a",
+      "competing",
+      ",",
+      "covert",
+      "influence",
+      "on",
+      "participants"
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "factor"
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "type": "association"
+      },
+      {
+        "start": 8,
+        "end": 15,
+        "type": "factor"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "type": "magnitude"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 3
+      }
+    ],
+    "attributes": [
+      {
+        "type": "causation",
+        "entity": 1
+      }
+    ],
+    "user": "annotator1"
+  },
+  {
+    "uuid": "206cb71f-c36e-4d34-8650-75e75df72056",
+    "modified": "2020-11-17T02:45:00.158056Z",
+    "dataset": "manual_perturbations",
+    "tokens": [
+      "When",
+      "eating",
+      "sandwiches",
+      "and",
+      "when",
+      "in",
+      "Minneapolis",
+      ",",
+      "participants",
+      "attributed",
+      "greater",
+      "tastiness",
+      "when",
+      "pickles",
+      "were",
+      "present",
+      "than",
+      "when",
+      "pickles",
+      "were",
+      "rotten",
+      "or",
+      "when",
+      "pickles",
+      "were",
+      "absent",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "qualifier"
+      },
+      {
+        "start": 4,
+        "end": 7,
+        "type": "qualifier"
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "type": "association"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "type": "factor"
+      },
+      {
+        "start": 18,
+        "end": 21,
+        "type": "factor"
+      },
+      {
+        "start": 23,
+        "end": 26,
+        "type": "factor"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "type": "factor"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "type": "comp_to",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "type": "comp_to",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 6,
+        "type": "q+",
+        "tail": 3
+      }
+    ],
+    "attributes": [
+      {
+        "type": "comparison",
+        "entity": 2
+      },
+      {
+        "type": "sign+",
+        "entity": 2
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "563c7f44-6a3d-4d91-91ae-e4b702af7389",
+    "modified": "2020-11-19T17:31:16.093643Z",
+    "dataset": "manual_perturbations",
+    "tokens": [
+      "We",
+      "predicted",
+      "that",
+      "Christian",
+      "participants",
+      "would",
+      "allocate",
+      "more",
+      "money",
+      "to",
+      "ingroup",
+      "than",
+      "outgroup",
+      "partners",
+      "(",
+      "i.e.",
+      ",",
+      "Christians",
+      "would",
+      "demonstrate",
+      "an",
+      "ingroup",
+      "bias",
+      ")",
+      ",",
+      "but",
+      "that",
+      "this",
+      "e\ufb00ect",
+      "would",
+      "be",
+      "attenuated",
+      "or",
+      "absent",
+      "among",
+      "atheist",
+      "participants",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 1,
+        "end": 2,
+        "type": "epistemic"
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "type": "magnitude"
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "type": "association"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "factor"
+      },
+      {
+        "start": 17,
+        "end": 18,
+        "type": "factor"
+      },
+      {
+        "start": 18,
+        "end": 19,
+        "type": "magnitude"
+      },
+      {
+        "start": 19,
+        "end": 20,
+        "type": "association"
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "type": "factor"
+      },
+      {
+        "start": 34,
+        "end": 37,
+        "type": "qualifier"
+      },
+      {
+        "start": 6,
+        "end": 10,
+        "type": "factor"
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "type": "factor"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "qualifier"
+      },
+      {
+        "start": 27,
+        "end": 29,
+        "type": "factor"
+      },
+      {
+        "start": 29,
+        "end": 30,
+        "type": "magnitude"
+      },
+      {
+        "start": 31,
+        "end": 32,
+        "type": "association"
+      },
+      {
+        "start": 33,
+        "end": 34,
+        "type": "association"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 6,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 6,
+        "type": "arg0",
+        "tail": 4
+      },
+      {
+        "head": 6,
+        "type": "modifier",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "type": "arg1",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 9
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 10
+      },
+      {
+        "head": 2,
+        "type": "comp_to",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 11
+      },
+      {
+        "head": 14,
+        "type": "modifier",
+        "tail": 13
+      },
+      {
+        "head": 14,
+        "type": "modifier",
+        "tail": 8
+      },
+      {
+        "head": 10,
+        "type": "q+",
+        "tail": 9
+      },
+      {
+        "head": 14,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 15,
+        "type": "arg1",
+        "tail": 12
+      },
+      {
+        "head": 14,
+        "type": "arg1",
+        "tail": 12
+      },
+      {
+        "head": 15,
+        "type": "modifier",
+        "tail": 13
+      },
+      {
+        "head": 15,
+        "type": "modifier",
+        "tail": 8
+      },
+      {
+        "head": 15,
+        "type": "modifier",
+        "tail": 0
+      }
+    ],
+    "attributes": [
+      {
+        "type": "comparison",
+        "entity": 2
+      },
+      {
+        "type": "sign+",
+        "entity": 2
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "c42c84c9-73da-48c5-b6c4-578857323d2f",
+    "modified": "2020-11-19T17:31:34.909000Z",
+    "dataset": "manual_perturbations",
+    "tokens": [
+      "We",
+      "predicted",
+      "that",
+      "the",
+      "angry",
+      "face",
+      "would",
+      "be",
+      "the",
+      "least",
+      "preferable",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 1,
+        "end": 2,
+        "type": "epistemic"
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "type": "factor"
+      },
+      {
+        "start": 9,
+        "end": 10,
+        "type": "association"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "type": "magnitude"
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "type": "factor"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "type": "q-",
+        "tail": 4
+      }
+    ],
+    "attributes": [
+      {
+        "type": "comparison",
+        "entity": 2
+      },
+      {
+        "type": "sign-",
+        "entity": 2
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "5f9f0841-a9ca-49b0-9de7-9196d0fd8867",
+    "modified": "2020-12-04T21:45:06.032798Z",
+    "dataset": "manual_perturbations",
+    "tokens": [
+      "Somebody",
+      "'s",
+      "model",
+      "and",
+      "our",
+      "intuitions",
+      "propose",
+      "that",
+      "delicious",
+      "cookie",
+      "cake",
+      "is",
+      "inversely",
+      "correlated",
+      "with",
+      "hunger",
+      "in",
+      "Minnesotan",
+      "subjects",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "evidence"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "type": "evidence"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "type": "epistemic"
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "type": "factor"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "association"
+      },
+      {
+        "start": 12,
+        "end": 13,
+        "type": "magnitude"
+      },
+      {
+        "start": 15,
+        "end": 16,
+        "type": "factor"
+      },
+      {
+        "start": 16,
+        "end": 19,
+        "type": "qualifier"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "type": "modifier",
+        "tail": 5
+      },
+      {
+        "head": 4,
+        "type": "arg1",
+        "tail": 6
+      },
+      {
+        "head": 4,
+        "type": "arg0",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "type": "modifier",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "type": "modifier",
+        "tail": 7
+      },
+      {
+        "head": 3,
+        "type": "q-",
+        "tail": 6
+      }
+    ],
+    "attributes": [
+      {
+        "type": "sign-",
+        "entity": 4
+      },
+      {
+        "type": "correlation",
+        "entity": 4
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "e767e7d0-7707-4dc0-ba25-72366fb714fb",
+    "modified": "2020-12-04T21:45:30.027028Z",
+    "dataset": "manual_perturbations",
+    "tokens": [
+      "the",
+      "hypothesized",
+      "interaction",
+      "between",
+      "religious",
+      "a\ufb03liation",
+      "and",
+      "partner",
+      "group",
+      "membership",
+      "was",
+      "signi\ufb01cant",
+      ",",
+      "F(1293",
+      ")",
+      "=",
+      "5.21,p",
+      "=",
+      "0.023",
+      ",",
+      "\u03b72p",
+      "=",
+      "0.02"
+    ],
+    "entities": [
+      {
+        "start": 1,
+        "end": 2,
+        "type": "magnitude"
+      },
+      {
+        "start": 2,
+        "end": 3,
+        "type": "association"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "type": "factor"
+      },
+      {
+        "start": 7,
+        "end": 10,
+        "type": "factor"
+      },
+      {
+        "start": 11,
+        "end": 12,
+        "type": "magnitude"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "type": "arg0",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "type": "arg0",
+        "tail": 3
+      }
+    ],
+    "attributes": [
+      {
+        "type": "correlation",
+        "entity": 1
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "6cebcce3-c960-4f00-8922-c01e441187ea",
+    "modified": "2021-04-22T17:47:18.017408Z",
+    "dataset": "manual_perturbations",
+    "tokens": [
+      "A",
+      "binary",
+      "logistic",
+      "regression",
+      "with",
+      "uncertainty",
+      "condition",
+      ",",
+      "task",
+      "construal",
+      ",",
+      "and",
+      "their",
+      "interaction",
+      "entered",
+      "as",
+      "predictors",
+      "and",
+      "the",
+      "task",
+      "resumption",
+      "rate",
+      "as",
+      "the",
+      "dependent",
+      "variable"
+    ],
+    "entities": [
+      {
+        "start": 5,
+        "end": 7,
+        "type": "factor"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "type": "factor"
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "type": "association"
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "type": "factor"
+      },
+      {
+        "start": 1,
+        "end": 4,
+        "type": "association"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "type": "arg0",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "type": "arg0",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "type": "arg1",
+        "tail": 3
+      }
+    ],
+    "attributes": [
+      {
+        "type": "correlation",
+        "entity": 2
+      },
+      {
+        "type": "test",
+        "entity": 4
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "a1bf837c-571b-4ae3-8e4c-5a9530a81d80",
+    "modified": "2021-05-13T15:20:58.988793Z",
+    "dataset": "manual_perturbations",
+    "tokens": [
+      "This",
+      "sign+",
+      "that",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 1,
+        "end": 2,
+        "type": "association"
+      },
+      {
+        "start": 0,
+        "end": 1,
+        "type": "factor"
+      },
+      {
+        "start": 2,
+        "end": 3,
+        "type": "factor"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "type": "arg0",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "type": "arg1",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "type": "q+",
+        "tail": 2
+      }
+    ],
+    "attributes": [
+      {
+        "type": "causation",
+        "entity": 0
+      },
+      {
+        "type": "sign+",
+        "entity": 0
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "139e0707-757a-45ac-a10e-b87828de0147",
+    "modified": "2021-05-13T15:25:03.283068Z",
+    "dataset": "manual_perturbations",
+    "tokens": [
+      "Health",
+      "care",
+      "expenditures",
+      "increase",
+      "with",
+      "closeness",
+      "to",
+      "time",
+      "of",
+      "death"
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "factor"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "association"
+      },
+      {
+        "start": 5,
+        "end": 10,
+        "type": "factor"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "type": "arg0",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "type": "q+",
+        "tail": 0
+      }
+    ],
+    "attributes": [
+      {
+        "type": "sign+",
+        "entity": 1
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "53e535cb-9058-45d2-aa26-2e80f6dbc4b9",
+    "modified": "2021-05-13T15:31:52.060955Z",
+    "dataset": "manual_perturbations",
+    "tokens": [
+      "However",
+      ",",
+      "it",
+      "is",
+      "clear",
+      "that",
+      "finding",
+      "an",
+      "effective",
+      "antiviral",
+      "and",
+      "developing",
+      "a",
+      "vaccine",
+      "are",
+      "still",
+      "significant",
+      "challenges",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 6,
+        "end": 10,
+        "type": "factor"
+      },
+      {
+        "start": 11,
+        "end": 14,
+        "type": "factor"
+      }
+    ],
+    "relations": [],
+    "attributes": [],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "19200c38-16bf-4f0a-b189-0424055c0c01",
+    "modified": "2021-05-13T15:33:12.893739Z",
+    "dataset": "manual_perturbations",
+    "tokens": [
+      "We",
+      "predict",
+      "that",
+      "this",
+      "subjective",
+      "experience",
+      "of",
+      "\\\"feeling",
+      "right\\",
+      "\"",
+      "will",
+      "mediate",
+      "the",
+      "rounded",
+      "price",
+      "effect"
+    ],
+    "entities": [
+      {
+        "start": 1,
+        "end": 2,
+        "type": "epistemic"
+      },
+      {
+        "start": 3,
+        "end": 10,
+        "type": "factor"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "factor"
+      },
+      {
+        "start": 11,
+        "end": 12,
+        "type": "association"
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "type": "magnitude"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "type": "arg1",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "type": "arg0",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 4
+      }
+    ],
+    "attributes": [
+      {
+        "type": "causation",
+        "entity": 3
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "d5750ec0-7849-4d96-84f7-2812a22678a2",
+    "modified": "2021-05-13T15:48:12.347148Z",
+    "dataset": "manual_perturbations",
+    "tokens": [
+      "Weight",
+      "reduction",
+      "is",
+      "an",
+      "effective",
+      "treatment",
+      "for",
+      "UI",
+      "in",
+      "overweight",
+      "and",
+      "obese",
+      "women"
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 1,
+        "type": "factor"
+      },
+      {
+        "start": 4,
+        "end": 5,
+        "type": "magnitude"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "association"
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "type": "factor"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "type": "qualifier"
+      },
+      {
+        "start": 1,
+        "end": 2,
+        "type": "association"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "type": "arg1",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 5
+      }
+    ],
+    "attributes": [
+      {
+        "type": "causation",
+        "entity": 2
+      },
+      {
+        "type": "sign-",
+        "entity": 5
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "4139654c-62aa-42b5-8ec7-66d6f8e98314",
+    "modified": "2021-05-13T15:52:40.782706Z",
+    "dataset": "manual_perturbations",
+    "tokens": [
+      "we",
+      "predicted",
+      "that",
+      "sex",
+      "-",
+      "differentiation",
+      "accuracy",
+      "would",
+      "be",
+      "higher",
+      "for",
+      "East",
+      "Asian",
+      "than",
+      "Caucasian",
+      "participants",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 1,
+        "end": 2,
+        "type": "epistemic"
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "type": "factor"
+      },
+      {
+        "start": 9,
+        "end": 10,
+        "type": "association"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "factor"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "factor"
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "type": "magnitude"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "type": "comp_to",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "type": "q+",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 5
+      }
+    ],
+    "attributes": [
+      {
+        "type": "comparison",
+        "entity": 2
+      },
+      {
+        "type": "sign+",
+        "entity": 2
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "8693cdb9-00bc-4a0a-a5f4-6a7f3f340b1c",
+    "modified": "2021-05-13T15:52:52.622949Z",
+    "dataset": "manual_perturbations",
+    "tokens": [
+      "we",
+      "predicted",
+      "that",
+      "sex",
+      "-",
+      "differentiation",
+      "accuracy",
+      "would",
+      "be",
+      "lower",
+      "for",
+      "East",
+      "Asian",
+      "than",
+      "Caucasian",
+      "participants",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 1,
+        "end": 2,
+        "type": "epistemic"
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "type": "factor"
+      },
+      {
+        "start": 9,
+        "end": 10,
+        "type": "association"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "factor"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "factor"
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "type": "magnitude"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "type": "comp_to",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "type": "q-",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 5
+      }
+    ],
+    "attributes": [
+      {
+        "type": "comparison",
+        "entity": 2
+      },
+      {
+        "type": "sign-",
+        "entity": 2
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "c232119f-6635-4756-97d4-e0ca48e677ab",
+    "modified": "2021-05-16T20:06:12.174816Z",
+    "dataset": "manual_perturbations",
+    "tokens": [
+      "Direct",
+      "eye",
+      "gaze",
+      "has",
+      "been",
+      "associated",
+      "with",
+      "enhanced",
+      "intensity",
+      "and",
+      "speed",
+      "of",
+      "correct",
+      "recognition",
+      "of",
+      "happy",
+      "faces",
+      "(",
+      "Adams",
+      "&",
+      "Kleck",
+      ",",
+      "2003",
+      ",",
+      "2005",
+      ")",
+      "and",
+      "sign+",
+      "the",
+      "attractiveness",
+      "of",
+      "faces",
+      "(",
+      "Mason",
+      ",",
+      "Tatkow",
+      ",",
+      "&",
+      "Macrae",
+      ",",
+      "2005",
+      ")"
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "factor"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "association"
+      },
+      {
+        "start": 8,
+        "end": 9,
+        "type": "factor"
+      },
+      {
+        "start": 10,
+        "end": 17,
+        "type": "factor"
+      },
+      {
+        "start": 18,
+        "end": 25,
+        "type": "evidence"
+      },
+      {
+        "start": 27,
+        "end": 28,
+        "type": "association"
+      },
+      {
+        "start": 28,
+        "end": 32,
+        "type": "factor"
+      },
+      {
+        "start": 33,
+        "end": 41,
+        "type": "evidence"
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "type": "association"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 5,
+        "type": "arg1",
+        "tail": 6
+      },
+      {
+        "head": 5,
+        "type": "modifier",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "type": "q+",
+        "tail": 6
+      },
+      {
+        "head": 8,
+        "type": "arg1",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "type": "q+",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "type": "q+",
+        "tail": 3
+      }
+    ],
+    "attributes": [
+      {
+        "type": "sign+",
+        "entity": 5
+      },
+      {
+        "type": "causation",
+        "entity": 5
+      },
+      {
+        "type": "correlation",
+        "entity": 1
+      },
+      {
+        "type": "sign+",
+        "entity": 1
+      },
+      {
+        "type": "sign+",
+        "entity": 8
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "4c89c067-d40b-433e-9741-1c4dffc74562",
+    "modified": "2021-05-19T20:21:55.195126Z",
+    "dataset": "manual_perturbations",
+    "tokens": [
+      "Evidence",
+      "is",
+      "mixed",
+      "about",
+      "whether",
+      "health",
+      "insurance",
+      "improves",
+      "health",
+      "status"
+    ],
+    "entities": [
+      {
+        "start": 5,
+        "end": 7,
+        "type": "factor"
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "type": "association"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "type": "factor"
+      },
+      {
+        "start": 4,
+        "end": 5,
+        "type": "magnitude"
+      },
+      {
+        "start": 0,
+        "end": 3,
+        "type": "epistemic"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "type": "q+",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 4
+      }
+    ],
+    "attributes": [
+      {
+        "type": "causation",
+        "entity": 1
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "aa51a565-6e03-4947-99bb-72de871de319",
+    "modified": "2021-05-19T20:23:08.567301Z",
+    "dataset": "manual_perturbations",
+    "tokens": [
+      "When",
+      "eating",
+      "sandwiches",
+      ",",
+      "participants",
+      "judged",
+      "tastiness",
+      "as",
+      "greater",
+      "when",
+      "pickles",
+      "were",
+      "present",
+      "than",
+      "when",
+      "pickles",
+      "were",
+      "rotten",
+      "or",
+      "when",
+      "pickles",
+      "were",
+      "absent",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "qualifier"
+      },
+      {
+        "start": 4,
+        "end": 7,
+        "type": "factor"
+      },
+      {
+        "start": 8,
+        "end": 9,
+        "type": "association"
+      },
+      {
+        "start": 10,
+        "end": 13,
+        "type": "factor"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "type": "factor"
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "type": "factor"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "type": "comp_to",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "type": "comp_to",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "type": "q+",
+        "tail": 1
+      }
+    ],
+    "attributes": [
+      {
+        "type": "comparison",
+        "entity": 2
+      },
+      {
+        "type": "sign+",
+        "entity": 2
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "43cec483-ba2f-4d22-9682-244f6a6f6115",
+    "modified": "2021-05-20T02:10:54.446338Z",
+    "dataset": "manual_perturbations",
+    "tokens": [
+      "Our",
+      "study",
+      "shows",
+      "that",
+      "there",
+      "are",
+      "cardiovascular",
+      "risks",
+      "associated",
+      "with",
+      "smoking",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "evidence"
+      },
+      {
+        "start": 2,
+        "end": 3,
+        "type": "epistemic"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "type": "factor"
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "type": "factor"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "type": "association"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "type": "arg0",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "type": "arg1",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "type": "q+",
+        "tail": 2
+      }
+    ],
+    "attributes": [
+      {
+        "type": "correlation",
+        "entity": 4
+      },
+      {
+        "type": "sign+",
+        "entity": 4
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "b1a5aa5e-38da-4abe-b951-d6c7e58b8a48",
+    "modified": "2021-05-25T17:49:49.846124Z",
+    "dataset": "manual_perturbations",
+    "tokens": [
+      "Issues",
+      "that",
+      "are",
+      "associated",
+      "with",
+      "a",
+      "heavy",
+      "weight",
+      "should",
+      "be",
+      "judged",
+      "to",
+      "be",
+      "more",
+      "important",
+      "than",
+      "issues",
+      "that",
+      "are",
+      "associated",
+      "with",
+      "a",
+      "light",
+      "weight",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 1,
+        "type": "factor"
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "type": "association"
+      },
+      {
+        "start": 8,
+        "end": 9,
+        "type": "magnitude"
+      },
+      {
+        "start": 10,
+        "end": 15,
+        "type": "factor"
+      },
+      {
+        "start": 16,
+        "end": 17,
+        "type": "factor"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "association"
+      },
+      {
+        "start": 5,
+        "end": 8,
+        "type": "factor"
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "type": "association"
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "type": "factor"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "type": "comp_to",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "type": "q+",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 5,
+        "type": "arg1",
+        "tail": 6
+      },
+      {
+        "head": 7,
+        "type": "arg1",
+        "tail": 8
+      },
+      {
+        "head": 7,
+        "type": "arg0",
+        "tail": 4
+      }
+    ],
+    "attributes": [
+      {
+        "type": "comparison",
+        "entity": 1
+      },
+      {
+        "type": "sign+",
+        "entity": 1
+      },
+      {
+        "type": "correlation",
+        "entity": 5
+      },
+      {
+        "type": "correlation",
+        "entity": 7
+      },
+      {
+        "type": "sign+",
+        "entity": 5
+      },
+      {
+        "type": "sign+",
+        "entity": 7
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  }
+]

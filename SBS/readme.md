@@ -1,0 +1,3 @@
+# Social and Behavioral Science (SBS) Data
+
+This portion of the SciClaim dataset consists of 336 annotatated expert identified claims drawn from the dataset of [Alipourfard et al. 2021](https://osf.io/preprints/socarxiv/46mnb/). Due to licensing restrictions on these underlying scientific papers, we are not able to include this portion of the data in the repo at this time. Please contact us at magnusson.i@northeastern.edu if you would like us to request access to this data for you.

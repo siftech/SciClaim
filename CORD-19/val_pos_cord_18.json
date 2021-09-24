@@ -1,0 +1,2161 @@
+[
+  {
+    "uuid": "7e1627e1-0966-407d-b0d2-1b34567262a1",
+    "text": "The pulmonary function and symptoms of these seven patients were significantly improved in 2 days after MSC transplantation.",
+    "notes": "",
+    "modified": "2021-01-21T14:31:24.249750Z",
+    "dataset": "cord-19",
+    "tokens": [
+      "The",
+      "pulmonary",
+      "function",
+      "and",
+      "symptoms",
+      "of",
+      "these",
+      "seven",
+      "patients",
+      "were",
+      "significantly",
+      "improved",
+      "in",
+      "2",
+      "days",
+      "after",
+      "MSC",
+      "transplantation",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "factor"
+      },
+      {
+        "start": 4,
+        "end": 9,
+        "type": "factor"
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "type": "magnitude"
+      },
+      {
+        "start": 11,
+        "end": 12,
+        "type": "association"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "factor"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "type": "magnitude"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "type": "arg1",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "type": "arg1",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "type": "arg0",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 5
+      }
+    ],
+    "attributes": [
+      {
+        "type": "causation",
+        "entity": 3
+      }
+    ],
+    "user": "annotator1"
+  },
+  {
+    "uuid": "aed91003-1f6f-4e08-bd42-73e2794ef55c",
+    "modified": "2021-01-21T14:39:04.183984Z",
+    "dataset": "cord-19",
+    "tokens": [
+      "far",
+      "-",
+      "reaching",
+      "solutions",
+      "were",
+      "implemented",
+      "relatively",
+      "early",
+      "to",
+      "reduce",
+      "the",
+      "spread",
+      "of",
+      "infection",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "factor"
+      },
+      {
+        "start": 9,
+        "end": 10,
+        "type": "association"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "type": "factor"
+      },
+      {
+        "start": 5,
+        "end": 8,
+        "type": "qualifier"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "type": "q-",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 3
+      }
+    ],
+    "attributes": [
+      {
+        "type": "sign-",
+        "entity": 1
+      },
+      {
+        "type": "causation",
+        "entity": 1
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "7b749859-7a7d-40df-86b8-4172fb7bdc05",
+    "text": "As we await more data from treating these patients, this strategy is likely to help reduce potential complications.",
+    "notes": "",
+    "modified": "2021-01-21T16:08:36.348563Z",
+    "dataset": "cord-19",
+    "tokens": [
+      "As",
+      "we",
+      "await",
+      "more",
+      "data",
+      "from",
+      "treating",
+      "these",
+      "patients",
+      ",",
+      "this",
+      "strategy",
+      "is",
+      "likely",
+      "to",
+      "help",
+      "reduce",
+      "potential",
+      "complications",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 10,
+        "end": 12,
+        "type": "factor"
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "type": "magnitude"
+      },
+      {
+        "start": 16,
+        "end": 17,
+        "type": "association"
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "type": "factor"
+      },
+      {
+        "start": 0,
+        "end": 9,
+        "type": "qualifier"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "type": "q-",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 4
+      }
+    ],
+    "attributes": [
+      {
+        "type": "sign-",
+        "entity": 2
+      },
+      {
+        "type": "causation",
+        "entity": 2
+      }
+    ],
+    "user": "annotator1"
+  },
+  {
+    "uuid": "b60374ea-e42e-4e09-b1b8-d029d5911d4d",
+    "text": "the effect progressively increased as the probability of infection increased.",
+    "notes": "",
+    "modified": "2021-01-21T16:14:16.861378Z",
+    "dataset": "cord-19",
+    "tokens": [
+      "the",
+      "effect",
+      "progressively",
+      "increased",
+      "as",
+      "the",
+      "probability",
+      "of",
+      "infection",
+      "increased",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "factor"
+      },
+      {
+        "start": 2,
+        "end": 3,
+        "type": "magnitude"
+      },
+      {
+        "start": 3,
+        "end": 4,
+        "type": "association"
+      },
+      {
+        "start": 5,
+        "end": 9,
+        "type": "factor"
+      },
+      {
+        "start": 9,
+        "end": 10,
+        "type": "association"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "type": "arg1",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "type": "q+",
+        "tail": 0
+      }
+    ],
+    "attributes": [
+      {
+        "type": "sign+",
+        "entity": 2
+      },
+      {
+        "type": "sign+",
+        "entity": 4
+      }
+    ],
+    "user": "annotator1"
+  },
+  {
+    "uuid": "a20ce8cb-8fc0-449b-9c94-febfc0d9794b",
+    "text": "There were more case fatalities among COVID-19 patients without comorbidities than in the reference cohort.",
+    "notes": "",
+    "modified": "2021-01-30T16:01:18.333703Z",
+    "dataset": "cord-19",
+    "tokens": [
+      "There",
+      "were",
+      "more",
+      "case",
+      "fatalities",
+      "among",
+      "COVID-19",
+      "patients",
+      "without",
+      "comorbidities",
+      "than",
+      "in",
+      "the",
+      "reference",
+      "cohort",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 2,
+        "end": 3,
+        "type": "association"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "factor"
+      },
+      {
+        "start": 6,
+        "end": 10,
+        "type": "factor"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "type": "factor"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "type": "arg1",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "type": "comp_to",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "type": "arg0",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "type": "q+",
+        "tail": 1
+      }
+    ],
+    "attributes": [
+      {
+        "type": "sign+",
+        "entity": 0
+      },
+      {
+        "type": "comparison",
+        "entity": 0
+      }
+    ],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "d4c89460-4fd5-488f-8c5f-a6496524af1e",
+    "text": "Even more complex is the situation of patients in ICU, where viral spreading is facilitated by endotracheal tubes and manoeuvres performed on the respiratory tract.",
+    "notes": "",
+    "modified": "2021-01-30T04:49:03.544678Z",
+    "dataset": "cord-19",
+    "tokens": [
+      "Even",
+      "more",
+      "complex",
+      "is",
+      "the",
+      "situation",
+      "of",
+      "patients",
+      "in",
+      "ICU",
+      ",",
+      "where",
+      "viral",
+      "spreading",
+      "is",
+      "facilitated",
+      "by",
+      "endotracheal",
+      "tubes",
+      "and",
+      "manoeuvres",
+      "performed",
+      "on",
+      "the",
+      "respiratory",
+      "tract",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "type": "factor"
+      },
+      {
+        "start": 15,
+        "end": 16,
+        "type": "association"
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "type": "factor"
+      },
+      {
+        "start": 20,
+        "end": 26,
+        "type": "factor"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "type": "arg0",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "type": "q+",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "type": "q+",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "type": "arg0",
+        "tail": 3
+      }
+    ],
+    "attributes": [
+      {
+        "type": "causation",
+        "entity": 1
+      },
+      {
+        "type": "sign+",
+        "entity": 1
+      }
+    ],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "f741db4f-0685-4741-922f-524c23b30892",
+    "modified": "2021-01-29T17:51:54.201190Z",
+    "dataset": "cord-19",
+    "tokens": [
+      "Staffing",
+      "along",
+      "epidemiologic",
+      "considerations",
+      "may",
+      "reduce",
+      "HCW",
+      "shortage",
+      "by",
+      "leveling",
+      "the",
+      "nadir",
+      "of",
+      "affected",
+      "workforce",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "factor"
+      },
+      {
+        "start": 4,
+        "end": 5,
+        "type": "magnitude"
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "type": "association"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "type": "factor"
+      },
+      {
+        "start": 10,
+        "end": 15,
+        "type": "factor"
+      },
+      {
+        "start": 9,
+        "end": 10,
+        "type": "association"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "type": "q-",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 5
+      },
+      {
+        "head": 5,
+        "type": "arg1",
+        "tail": 4
+      }
+    ],
+    "attributes": [
+      {
+        "type": "sign-",
+        "entity": 2
+      },
+      {
+        "type": "causation",
+        "entity": 2
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "6f115d0b-7142-43a1-85ba-c8601fd845c8",
+    "text": "It was found that the PM2.5 concentrations showed a high reduction of up to 58.4% during the MCO.",
+    "notes": "",
+    "modified": "2021-01-30T16:36:52.894967Z",
+    "dataset": "cord-19",
+    "tokens": [
+      "It",
+      "was",
+      "found",
+      "that",
+      "the",
+      "PM2.5",
+      "concentrations",
+      "showed",
+      "a",
+      "high",
+      "reduction",
+      "of",
+      "up",
+      "to",
+      "58.4",
+      "%",
+      "during",
+      "the",
+      "MCO",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 2,
+        "end": 3,
+        "type": "epistemic"
+      },
+      {
+        "start": 4,
+        "end": 7,
+        "type": "factor"
+      },
+      {
+        "start": 9,
+        "end": 10,
+        "type": "magnitude"
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "type": "association"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "magnitude"
+      },
+      {
+        "start": 16,
+        "end": 19,
+        "type": "qualifier"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "type": "arg1",
+        "tail": 1
+      }
+    ],
+    "attributes": [
+      {
+        "type": "sign-",
+        "entity": 3
+      }
+    ],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "c624d3de-8eb5-4baf-bc70-dc804cc58788",
+    "modified": "2021-04-16T16:34:12.457315Z",
+    "dataset": "cord-19",
+    "tokens": [
+      "In",
+      "addition",
+      ",",
+      "ACEI",
+      "or",
+      "ARB",
+      "therapy",
+      "increased",
+      "CD3",
+      "and",
+      "CD8",
+      "T",
+      "cell",
+      "counts",
+      "in",
+      "peripheral",
+      "blood",
+      "and",
+      "decreased",
+      "the",
+      "peak",
+      "viral",
+      "load",
+      "compared",
+      "to",
+      "other",
+      "antihypertensive",
+      "drugs",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 3,
+        "end": 4,
+        "type": "factor"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "factor"
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "type": "association"
+      },
+      {
+        "start": 8,
+        "end": 9,
+        "type": "factor"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "type": "factor"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "type": "qualifier"
+      },
+      {
+        "start": 18,
+        "end": 19,
+        "type": "association"
+      },
+      {
+        "start": 19,
+        "end": 23,
+        "type": "factor"
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "type": "factor"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "type": "q-",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "type": "q-",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 3
+      },
+      {
+        "head": 6,
+        "type": "arg0",
+        "tail": 1
+      },
+      {
+        "head": 6,
+        "type": "comp_to",
+        "tail": 8
+      },
+      {
+        "head": 6,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 6,
+        "type": "arg1",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "type": "q+",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "type": "q+",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "type": "q+",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "type": "q+",
+        "tail": 3
+      }
+    ],
+    "attributes": [
+      {
+        "type": "sign+",
+        "entity": 2
+      },
+      {
+        "type": "causation",
+        "entity": 2
+      },
+      {
+        "type": "sign-",
+        "entity": 6
+      },
+      {
+        "type": "causation",
+        "entity": 6
+      },
+      {
+        "type": "comparison",
+        "entity": 6
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "84ead3ea-fce7-497b-b7f3-5cbb561fbcde",
+    "modified": "2021-05-13T16:23:05.294747Z",
+    "dataset": "cord-19",
+    "tokens": [
+      "Respiratory",
+      "illness",
+      "is",
+      "the",
+      "dominant",
+      "clinical",
+      "manifestation",
+      "of",
+      "COVID-19",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "factor"
+      },
+      {
+        "start": 8,
+        "end": 9,
+        "type": "factor"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "type": "association"
+      },
+      {
+        "start": 4,
+        "end": 5,
+        "type": "magnitude"
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "type": "magnitude"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 4
+      }
+    ],
+    "attributes": [
+      {
+        "type": "indicates",
+        "entity": 2
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "34ce3be6-a407-4b1a-864e-d0826094ab9b",
+    "modified": "2021-05-19T19:24:40.999435Z",
+    "dataset": "cord-19",
+    "tokens": [
+      "This",
+      "viral",
+      "epidemic",
+      "in",
+      "China",
+      "has",
+      "led",
+      "to",
+      "the",
+      "deaths",
+      "of",
+      "over",
+      "1800",
+      "people",
+      ",",
+      "mostly",
+      "elderly",
+      "or",
+      "those",
+      "with",
+      "an",
+      "underlying",
+      "chronic",
+      "disease",
+      "or",
+      "immunosuppressed",
+      "state",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "factor"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "qualifier"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "type": "association"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "type": "factor"
+      },
+      {
+        "start": 15,
+        "end": 16,
+        "type": "association"
+      },
+      {
+        "start": 16,
+        "end": 17,
+        "type": "factor"
+      },
+      {
+        "start": 18,
+        "end": 24,
+        "type": "factor"
+      },
+      {
+        "start": 25,
+        "end": 27,
+        "type": "factor"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "type": "arg0",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "type": "arg1",
+        "tail": 5
+      },
+      {
+        "head": 4,
+        "type": "arg1",
+        "tail": 6
+      },
+      {
+        "head": 4,
+        "type": "arg1",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "type": "q+",
+        "tail": 3
+      }
+    ],
+    "attributes": [
+      {
+        "type": "causation",
+        "entity": 2
+      },
+      {
+        "type": "comparison",
+        "entity": 4
+      },
+      {
+        "type": "sign+",
+        "entity": 4
+      },
+      {
+        "type": "sign+",
+        "entity": 2
+      }
+    ],
+    "notes": "",
+    "user": "annotator2"
+  },
+  {
+    "uuid": "c335673a-5fd8-4f57-9f65-355ea2e7d1ef",
+    "modified": "2021-05-19T19:28:59.105860Z",
+    "dataset": "cord-19",
+    "tokens": [
+      "While",
+      "in",
+      "most",
+      "cases",
+      ",",
+      "mild",
+      "symptoms",
+      "are",
+      "observed",
+      ",",
+      "in",
+      "some",
+      "cases",
+      "the",
+      "infection",
+      "leads",
+      "to",
+      "serious",
+      "pulmonary",
+      "disease",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 1,
+        "end": 4,
+        "type": "qualifier"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "factor"
+      },
+      {
+        "start": 10,
+        "end": 13,
+        "type": "qualifier"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "factor"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "association"
+      },
+      {
+        "start": 17,
+        "end": 20,
+        "type": "factor"
+      },
+      {
+        "start": 8,
+        "end": 9,
+        "type": "association"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "type": "arg0",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "type": "modifier",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "type": "arg1",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "type": "arg1",
+        "tail": 1
+      },
+      {
+        "head": 6,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "type": "q+",
+        "tail": 5
+      }
+    ],
+    "attributes": [
+      {
+        "type": "causation",
+        "entity": 4
+      },
+      {
+        "type": "indicates",
+        "entity": 6
+      },
+      {
+        "type": "sign+",
+        "entity": 4
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "0262afaa-77a0-4f74-81bc-810f85b9be10",
+    "modified": "2021-05-19T19:49:02.112493Z",
+    "dataset": "cord-19",
+    "tokens": [
+      "This",
+      "virus",
+      "causes",
+      "the",
+      "coronavirus",
+      "disease",
+      "2019",
+      "(",
+      "COVID-19",
+      ")",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "factor"
+      },
+      {
+        "start": 2,
+        "end": 3,
+        "type": "association"
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "type": "factor"
+      },
+      {
+        "start": 8,
+        "end": 9,
+        "type": "factor"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "type": "q+",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "type": "subtype",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "type": "q+",
+        "tail": 3
+      }
+    ],
+    "attributes": [
+      {
+        "type": "causation",
+        "entity": 1
+      },
+      {
+        "type": "sign+",
+        "entity": 1
+      }
+    ],
+    "notes": "",
+    "user": "annotator2"
+  },
+  {
+    "uuid": "0d5394a6-6041-4f9b-9cbe-f2ec46154941",
+    "modified": "2021-05-20T02:18:20.993682Z",
+    "dataset": "cord-19",
+    "tokens": [
+      "Most",
+      "patients",
+      "with",
+      "confirmed",
+      "or",
+      "suspected",
+      "COVID",
+      "19",
+      "presented",
+      "with",
+      "fever",
+      "and",
+      "dry",
+      "cough",
+      "and",
+      "demonstrated",
+      "bilateral",
+      "multiple",
+      "mottling",
+      "and",
+      "ground",
+      "-",
+      "glass",
+      "opacity",
+      "on",
+      "chest",
+      "computed",
+      "tomography",
+      "scans",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 8,
+        "end": 10,
+        "type": "association"
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "type": "factor"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "factor"
+      },
+      {
+        "start": 15,
+        "end": 16,
+        "type": "association"
+      },
+      {
+        "start": 16,
+        "end": 19,
+        "type": "factor"
+      },
+      {
+        "start": 20,
+        "end": 24,
+        "type": "factor"
+      },
+      {
+        "start": 24,
+        "end": 29,
+        "type": "qualifier"
+      },
+      {
+        "start": 1,
+        "end": 8,
+        "type": "factor"
+      },
+      {
+        "start": 0,
+        "end": 1,
+        "type": "association"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "type": "arg1",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "type": "arg1",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "type": "arg1",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 6
+      },
+      {
+        "head": 3,
+        "type": "arg1",
+        "tail": 4
+      },
+      {
+        "head": 7,
+        "type": "q+",
+        "tail": 1
+      },
+      {
+        "head": 7,
+        "type": "q+",
+        "tail": 2
+      },
+      {
+        "head": 7,
+        "type": "q+",
+        "tail": 4
+      },
+      {
+        "head": 7,
+        "type": "q+",
+        "tail": 5
+      },
+      {
+        "head": 8,
+        "type": "arg1",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "type": "arg0",
+        "tail": 8
+      },
+      {
+        "head": 3,
+        "type": "arg0",
+        "tail": 8
+      }
+    ],
+    "attributes": [
+      {
+        "type": "correlation",
+        "entity": 0
+      },
+      {
+        "type": "sign+",
+        "entity": 0
+      },
+      {
+        "type": "correlation",
+        "entity": 3
+      },
+      {
+        "type": "sign+",
+        "entity": 3
+      },
+      {
+        "type": "comparison",
+        "entity": 8
+      },
+      {
+        "type": "sign+",
+        "entity": 8
+      }
+    ],
+    "notes": "",
+    "user": "annotator2"
+  },
+  {
+    "uuid": "221ed080-7a34-403f-aa84-62e26ca63fb2",
+    "modified": "2021-05-20T02:18:56.722528Z",
+    "dataset": "cord-19",
+    "tokens": [
+      "The",
+      "relatively",
+      "small",
+      "proportion",
+      "of",
+      "current",
+      "smokers",
+      "in",
+      "each",
+      "of",
+      "these",
+      "two",
+      "studies",
+      "compared",
+      "with",
+      "the",
+      "proportion",
+      "of",
+      "male",
+      "smokers",
+      "in",
+      "China",
+      "(",
+      "50\u00b75",
+      "%",
+      ")",
+      "are",
+      "unlikely",
+      "to",
+      "be",
+      "associated",
+      "with",
+      "incidence",
+      "or",
+      "severity",
+      "of",
+      "COVID-19",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "type": "factor"
+      },
+      {
+        "start": 15,
+        "end": 22,
+        "type": "factor"
+      },
+      {
+        "start": 27,
+        "end": 28,
+        "type": "magnitude"
+      },
+      {
+        "start": 30,
+        "end": 32,
+        "type": "association"
+      },
+      {
+        "start": 32,
+        "end": 37,
+        "type": "factor"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "type": "arg1",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "type": "comp_to",
+        "tail": 1
+      }
+    ],
+    "attributes": [
+      {
+        "type": "correlation",
+        "entity": 3
+      },
+      {
+        "type": "comparison",
+        "entity": 3
+      },
+      {
+        "type": "sign+",
+        "entity": 3
+      }
+    ],
+    "notes": "",
+    "user": "annotator2"
+  },
+  {
+    "uuid": "e429861f-682d-46fb-a855-4eeae088ab24",
+    "modified": "2021-05-20T02:24:23.215915Z",
+    "dataset": "cord-19",
+    "tokens": [
+      "The",
+      "elderly",
+      "and",
+      "people",
+      "with",
+      "underlying",
+      "diseases",
+      "are",
+      "susceptible",
+      "to",
+      "infection",
+      "and",
+      "prone",
+      "to",
+      "serious",
+      "outcomes",
+      ",",
+      "which",
+      "may",
+      "be",
+      "associated",
+      "with",
+      "acute",
+      "respiratory",
+      "distress",
+      "syndrome",
+      "(",
+      "ARDS",
+      ")",
+      "and",
+      "cytokine",
+      "storm",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "factor"
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "type": "factor"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "type": "association"
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "type": "factor"
+      },
+      {
+        "start": 18,
+        "end": 19,
+        "type": "magnitude"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "type": "association"
+      },
+      {
+        "start": 22,
+        "end": 26,
+        "type": "factor"
+      },
+      {
+        "start": 30,
+        "end": 32,
+        "type": "factor"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "association"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "factor"
+      },
+      {
+        "start": 27,
+        "end": 28,
+        "type": "factor"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 1
+      },
+      {
+        "head": 5,
+        "type": "modifier",
+        "tail": 4
+      },
+      {
+        "head": 8,
+        "type": "arg0",
+        "tail": 1
+      },
+      {
+        "head": 8,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 8,
+        "type": "arg1",
+        "tail": 9
+      },
+      {
+        "head": 5,
+        "type": "arg0",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "type": "q+",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "type": "q+",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "type": "q+",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "type": "q+",
+        "tail": 9
+      },
+      {
+        "head": 5,
+        "type": "arg0",
+        "tail": 9
+      },
+      {
+        "head": 5,
+        "type": "arg1",
+        "tail": 6
+      },
+      {
+        "head": 5,
+        "type": "arg1",
+        "tail": 7
+      },
+      {
+        "head": 5,
+        "type": "arg1",
+        "tail": 10
+      },
+      {
+        "head": 6,
+        "type": "subtype",
+        "tail": 10
+      },
+      {
+        "head": 9,
+        "type": "q+",
+        "tail": 6
+      },
+      {
+        "head": 9,
+        "type": "q+",
+        "tail": 10
+      },
+      {
+        "head": 9,
+        "type": "q+",
+        "tail": 7
+      }
+    ],
+    "attributes": [
+      {
+        "type": "correlation",
+        "entity": 5
+      },
+      {
+        "type": "correlation",
+        "entity": 2
+      },
+      {
+        "type": "correlation",
+        "entity": 8
+      },
+      {
+        "type": "sign+",
+        "entity": 2
+      },
+      {
+        "type": "sign+",
+        "entity": 8
+      },
+      {
+        "type": "sign+",
+        "entity": 5
+      }
+    ],
+    "notes": "",
+    "user": "annotator2"
+  },
+  {
+    "uuid": "d3e15440-1aa2-4502-940f-941f84eb7243",
+    "modified": "2021-05-25T18:06:24.702042Z",
+    "dataset": "cord-19",
+    "tokens": [
+      "differences",
+      "in",
+      "COVID-19",
+      "disease",
+      "prevalence",
+      "and",
+      "severity",
+      "are",
+      "associated",
+      "with",
+      "sex",
+      ",",
+      "and",
+      "smoking",
+      "is",
+      "related",
+      "to",
+      "higher",
+      "expression",
+      "of",
+      "ACE2",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 6,
+        "end": 7,
+        "type": "factor"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "type": "association"
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "type": "factor"
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "type": "factor"
+      },
+      {
+        "start": 18,
+        "end": 21,
+        "type": "factor"
+      },
+      {
+        "start": 17,
+        "end": 18,
+        "type": "association"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "association"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "association"
+      },
+      {
+        "start": 2,
+        "end": 5,
+        "type": "factor"
+      }
+    ],
+    "relations": [
+      {
+        "head": 5,
+        "type": "arg1",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "type": "q+",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "type": "arg0",
+        "tail": 2
+      },
+      {
+        "head": 6,
+        "type": "arg0",
+        "tail": 3
+      },
+      {
+        "head": 6,
+        "type": "arg1",
+        "tail": 5
+      },
+      {
+        "head": 7,
+        "type": "arg1",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 7
+      },
+      {
+        "head": 7,
+        "type": "arg1",
+        "tail": 8
+      }
+    ],
+    "attributes": [
+      {
+        "type": "comparison",
+        "entity": 5
+      },
+      {
+        "type": "sign+",
+        "entity": 5
+      },
+      {
+        "type": "comparison",
+        "entity": 7
+      },
+      {
+        "type": "correlation",
+        "entity": 7
+      },
+      {
+        "type": "correlation",
+        "entity": 1
+      },
+      {
+        "type": "correlation",
+        "entity": 6
+      },
+      {
+        "type": "sign+",
+        "entity": 6
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "001ca90e-01fb-4d42-a0e3-23dd0bc8f4ac",
+    "modified": "2021-05-25T20:06:18.094096Z",
+    "dataset": "cord-19",
+    "tokens": [
+      "A",
+      "new",
+      "study",
+      "published",
+      "by",
+      "the",
+      "journal",
+      "Aging",
+      "&",
+      "Disease",
+      "reported",
+      "that",
+      "intravenous",
+      "administration",
+      "of",
+      "clinical",
+      "-",
+      "grade",
+      "human",
+      "mesenchymal",
+      "stem",
+      "cells",
+      "(",
+      "MSCs",
+      ")",
+      "into",
+      "patients",
+      "with",
+      "coronavirus",
+      "disease",
+      "2019",
+      "(",
+      "COVID-19",
+      ")",
+      "resulted",
+      "in",
+      "improved",
+      "functional",
+      "outcomes",
+      "(",
+      "Leng",
+      "et",
+      "al",
+      ".",
+      ",",
+      "Aging",
+      "Dis",
+      ",",
+      "11:216",
+      "-",
+      "228",
+      ",",
+      "2020",
+      ")",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "evidence"
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "type": "epistemic"
+      },
+      {
+        "start": 25,
+        "end": 33,
+        "type": "qualifier"
+      },
+      {
+        "start": 34,
+        "end": 36,
+        "type": "association"
+      },
+      {
+        "start": 36,
+        "end": 37,
+        "type": "association"
+      },
+      {
+        "start": 37,
+        "end": 39,
+        "type": "factor"
+      },
+      {
+        "start": 12,
+        "end": 22,
+        "type": "factor"
+      },
+      {
+        "start": 40,
+        "end": 53,
+        "type": "evidence"
+      },
+      {
+        "start": 28,
+        "end": 31,
+        "type": "factor"
+      },
+      {
+        "start": 32,
+        "end": 33,
+        "type": "factor"
+      },
+      {
+        "start": 23,
+        "end": 24,
+        "type": "factor"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "type": "arg1",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "type": "arg1",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "type": "arg0",
+        "tail": 6
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 7
+      },
+      {
+        "head": 8,
+        "type": "subtype",
+        "tail": 9
+      },
+      {
+        "head": 6,
+        "type": "subtype",
+        "tail": 10
+      },
+      {
+        "head": 3,
+        "type": "arg0",
+        "tail": 10
+      }
+    ],
+    "attributes": [
+      {
+        "type": "causation",
+        "entity": 3
+      },
+      {
+        "type": "sign+",
+        "entity": 3
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  }
+]

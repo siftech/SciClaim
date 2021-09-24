@@ -1,0 +1,4251 @@
+[
+  {
+    "uuid": "9e5c900e-d69f-43b4-b9de-ca0a219f1b11",
+    "text": "The promise of combining risk assessment, communication and management within one consultation was not realised.",
+    "notes": "",
+    "created": "2021-05-14T18:10:07.394870Z",
+    "modified": "2021-05-14T18:11:57.786072Z",
+    "relations": [],
+    "dataset": "pubmed",
+    "tokens": [
+      "The",
+      "promise",
+      "of",
+      "combining",
+      "risk",
+      "assessment",
+      ",",
+      "communication",
+      "and",
+      "management",
+      "within",
+      "one",
+      "consultation",
+      "was",
+      "not",
+      "realised",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 7,
+        "end": 8,
+        "type": "factor"
+      },
+      {
+        "start": 9,
+        "end": 10,
+        "type": "factor"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "type": "factor"
+      },
+      {
+        "start": 10,
+        "end": 13,
+        "type": "qualifier"
+      }
+    ],
+    "attributes": [],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "810086af-b9a6-427f-a722-74cbe12e7b97",
+    "text": "The STAMP may be an alternative method for assessing nutritional status in Chinese children with SCI.",
+    "notes": "",
+    "created": "2021-05-14T18:23:12.254009Z",
+    "modified": "2021-05-14T18:24:13.631242Z",
+    "relations": [
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 5
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "The",
+      "STAMP",
+      "may",
+      "be",
+      "an",
+      "alternative",
+      "method",
+      "for",
+      "assessing",
+      "nutritional",
+      "status",
+      "in",
+      "Chinese",
+      "children",
+      "with",
+      "SCI",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 2,
+        "end": 3,
+        "type": "magnitude"
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "type": "magnitude"
+      },
+      {
+        "start": 8,
+        "end": 9,
+        "type": "association"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "factor"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "factor"
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "type": "qualifier"
+      }
+    ],
+    "attributes": [
+      {
+        "score": 0.4052077829837799,
+        "type": "indicates",
+        "entity": 2
+      }
+    ],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "1c152568-9fcd-48b6-acf9-4cd620abcfc7",
+    "text": "Nutritional screening in all pediatric SCI patients should be performed periodically.",
+    "notes": "",
+    "created": "2021-05-14T18:25:15.578431Z",
+    "modified": "2021-05-14T18:25:42.621335Z",
+    "relations": [],
+    "dataset": "pubmed",
+    "tokens": [
+      "Nutritional",
+      "screening",
+      "in",
+      "all",
+      "pediatric",
+      "SCI",
+      "patients",
+      "should",
+      "be",
+      "performed",
+      "periodically",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 7,
+        "end": 8,
+        "type": "magnitude"
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "type": "magnitude"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "factor"
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "type": "qualifier"
+      }
+    ],
+    "attributes": [],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "29a00c80-da7f-4abe-866c-1d4f3b447c81",
+    "text": "Nutrition education should be part of programs in food insecure settings aiming at ameliorating food insecurity among communities.",
+    "notes": "",
+    "created": "2021-05-14T18:25:51.881423Z",
+    "modified": "2021-05-14T18:36:13.568059Z",
+    "relations": [
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "type": "arg0",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "type": "arg0",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "type": "q-",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "type": "q-",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "type": "subtype",
+        "tail": 2
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "Nutrition",
+      "education",
+      "should",
+      "be",
+      "part",
+      "of",
+      "programs",
+      "in",
+      "food",
+      "insecure",
+      "settings",
+      "aiming",
+      "at",
+      "ameliorating",
+      "food",
+      "insecurity",
+      "among",
+      "communities",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 2,
+        "end": 3,
+        "type": "magnitude"
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "type": "association"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "factor"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "factor"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "qualifier"
+      },
+      {
+        "start": 6,
+        "end": 11,
+        "type": "factor"
+      }
+    ],
+    "attributes": [
+      {
+        "score": 0.7542464733123779,
+        "type": "causation",
+        "entity": 1
+      }
+    ],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "96318b5a-7d7b-4777-b397-598f1c9c6410",
+    "text": "A-HIT1 and A-HIT2 are the first nationwide FH registries in Turkey and will provide important information on the management of Turkish FH patients.",
+    "notes": "",
+    "created": "2021-05-14T18:36:49.059412Z",
+    "modified": "2021-05-14T18:37:56.446502Z",
+    "relations": [
+      {
+        "head": 2,
+        "type": "subtype",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "type": "subtype",
+        "tail": 4
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "A",
+      "-",
+      "HIT1",
+      "and",
+      "A",
+      "-",
+      "HIT2",
+      "are",
+      "the",
+      "first",
+      "nationwide",
+      "FH",
+      "registries",
+      "in",
+      "Turkey",
+      "and",
+      "will",
+      "provide",
+      "important",
+      "information",
+      "on",
+      "the",
+      "management",
+      "of",
+      "Turkish",
+      "FH",
+      "patients",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 16,
+        "end": 17,
+        "type": "magnitude"
+      },
+      {
+        "start": 18,
+        "end": 19,
+        "type": "magnitude"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "factor"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "qualifier"
+      },
+      {
+        "start": 0,
+        "end": 3,
+        "type": "factor"
+      },
+      {
+        "start": 4,
+        "end": 7,
+        "type": "factor"
+      },
+      {
+        "start": 21,
+        "end": 27,
+        "type": "factor"
+      }
+    ],
+    "attributes": [],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "ba33eb6f-cfa9-4ded-9e39-955b4cdf66c7",
+    "text": "Larger prospective studies are required before it can be concluded that this extra surgery should be advised in these patients.",
+    "notes": "",
+    "created": "2021-05-14T19:00:25.143118Z",
+    "modified": "2021-05-14T19:06:29.760269Z",
+    "relations": [],
+    "dataset": "pubmed",
+    "tokens": [
+      "Larger",
+      "prospective",
+      "studies",
+      "are",
+      "required",
+      "before",
+      "it",
+      "can",
+      "be",
+      "concluded",
+      "that",
+      "this",
+      "extra",
+      "surgery",
+      "should",
+      "be",
+      "advised",
+      "in",
+      "these",
+      "patients",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 14,
+        "end": 15,
+        "type": "magnitude"
+      },
+      {
+        "start": 11,
+        "end": 14,
+        "type": "factor"
+      },
+      {
+        "start": 17,
+        "end": 20,
+        "type": "qualifier"
+      },
+      {
+        "start": 0,
+        "end": 3,
+        "type": "evidence"
+      }
+    ],
+    "attributes": [],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "94cc4d68-9051-4eb4-8026-b10c4a76ddc2",
+    "text": "There is an urgent need for new strategies, including an understanding of why growth falters.",
+    "notes": "",
+    "created": "2021-05-14T19:16:01.933810Z",
+    "modified": "2021-05-14T19:17:04.690815Z",
+    "relations": [
+      {
+        "head": 1,
+        "type": "subtype",
+        "tail": 2
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "There",
+      "is",
+      "an",
+      "urgent",
+      "need",
+      "for",
+      "new",
+      "strategies",
+      ",",
+      "including",
+      "an",
+      "understanding",
+      "of",
+      "why",
+      "growth",
+      "falters",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 3,
+        "end": 4,
+        "type": "magnitude"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "type": "factor"
+      },
+      {
+        "start": 10,
+        "end": 16,
+        "type": "factor"
+      }
+    ],
+    "attributes": [],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "6c249082-525c-475a-8858-c00c120ae6af",
+    "text": "These observations confirm the need of a rigorous monitoring of patients taking statins, in particular pre-diabetic patients or patients presenting with established risk factors for diabetes.",
+    "notes": "",
+    "created": "2021-05-14T19:17:14.418981Z",
+    "modified": "2021-05-14T19:20:08.623399Z",
+    "relations": [
+      {
+        "head": 3,
+        "type": "subtype",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "type": "subtype",
+        "tail": 1
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "These",
+      "observations",
+      "confirm",
+      "the",
+      "need",
+      "of",
+      "a",
+      "rigorous",
+      "monitoring",
+      "of",
+      "patients",
+      "taking",
+      "statins",
+      ",",
+      "in",
+      "particular",
+      "pre",
+      "-",
+      "diabetic",
+      "patients",
+      "or",
+      "patients",
+      "presenting",
+      "with",
+      "established",
+      "risk",
+      "factors",
+      "for",
+      "diabetes",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 2,
+        "end": 3,
+        "type": "epistemic"
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "type": "factor"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "evidence"
+      },
+      {
+        "start": 10,
+        "end": 13,
+        "type": "factor"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "type": "factor"
+      },
+      {
+        "start": 8,
+        "end": 9,
+        "type": "factor"
+      }
+    ],
+    "attributes": [],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "12c94492-5a0e-4cb0-8665-9251e42d3204",
+    "text": "We present BMI outcomes  to allow an objective basis for patient counseling, risk stratification, maintaining access to orthopaedic surgical care, and maintaining hospital operating margins.",
+    "notes": "",
+    "created": "2021-05-14T19:25:19.967080Z",
+    "modified": "2021-05-14T19:26:42.542812Z",
+    "relations": [],
+    "dataset": "pubmed",
+    "tokens": [
+      "We",
+      "present",
+      "BMI",
+      "outcomes",
+      "to",
+      "allow",
+      "an",
+      "objective",
+      "basis",
+      "for",
+      "patient",
+      "counseling",
+      ",",
+      "risk",
+      "stratification",
+      ",",
+      "maintaining",
+      "access",
+      "to",
+      "orthopaedic",
+      "surgical",
+      "care",
+      ",",
+      "and",
+      "maintaining",
+      "hospital",
+      "operating",
+      "margins",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 2,
+        "end": 4,
+        "type": "factor"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "factor"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "factor"
+      },
+      {
+        "start": 24,
+        "end": 28,
+        "type": "factor"
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "type": "factor"
+      }
+    ],
+    "attributes": [],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "c6305936-6d3f-47d5-9842-f92a2562da37",
+    "text": "BE is one of the most severe complications of LAGB.",
+    "notes": "",
+    "created": "2021-05-14T19:31:56.230070Z",
+    "modified": "2021-05-14T19:34:05.035124Z",
+    "relations": [
+      {
+        "head": 1,
+        "type": "subtype",
+        "tail": 0
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "BE",
+      "is",
+      "one",
+      "of",
+      "the",
+      "most",
+      "severe",
+      "complications",
+      "of",
+      "LAGB",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 1,
+        "type": "factor"
+      },
+      {
+        "start": 7,
+        "end": 10,
+        "type": "factor"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "type": "magnitude"
+      }
+    ],
+    "attributes": [],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "99af8394-85d0-4975-8201-52f50bb93cc6",
+    "text": "For regular monitoring, only ALP assay is recommended, provided one abstains from repeat injection of vitamin D based on high ALP levels.",
+    "notes": "",
+    "created": "2021-05-14T19:34:18.427145Z",
+    "modified": "2021-05-14T19:35:09.136703Z",
+    "relations": [
+      {
+        "head": 0,
+        "type": "arg1",
+        "tail": 2
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "For",
+      "regular",
+      "monitoring",
+      ",",
+      "only",
+      "ALP",
+      "assay",
+      "is",
+      "recommended",
+      ",",
+      "provided",
+      "one",
+      "abstains",
+      "from",
+      "repeat",
+      "injection",
+      "of",
+      "vitamin",
+      "D",
+      "based",
+      "on",
+      "high",
+      "ALP",
+      "levels",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 21,
+        "end": 22,
+        "type": "association"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "factor"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "type": "factor"
+      },
+      {
+        "start": 0,
+        "end": 3,
+        "type": "qualifier"
+      },
+      {
+        "start": 11,
+        "end": 19,
+        "type": "factor"
+      }
+    ],
+    "attributes": [
+      {
+        "score": 0.4658903479576111,
+        "type": "sign+",
+        "entity": 0
+      }
+    ],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "a4b30a2f-3f97-4330-919b-d9b6fa4eab4e",
+    "text": "Biochemical tests at initial presentation followed by vitamin D assay at 6 weeks and calcium, phosphate and ALP assays at 6 months is recommended in the monitoring of these patients.",
+    "notes": "",
+    "created": "2021-05-14T21:18:27.887938Z",
+    "modified": "2021-05-14T21:19:35.272098Z",
+    "relations": [],
+    "dataset": "pubmed",
+    "tokens": [
+      "Biochemical",
+      "tests",
+      "at",
+      "initial",
+      "presentation",
+      "followed",
+      "by",
+      "vitamin",
+      "D",
+      "assay",
+      "at",
+      "6",
+      "weeks",
+      "and",
+      "calcium",
+      ",",
+      "phosphate",
+      "and",
+      "ALP",
+      "assays",
+      "at",
+      "6",
+      "months",
+      "is",
+      "recommended",
+      "in",
+      "the",
+      "monitoring",
+      "of",
+      "these",
+      "patients",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 14,
+        "end": 15,
+        "type": "factor"
+      },
+      {
+        "start": 16,
+        "end": 17,
+        "type": "factor"
+      },
+      {
+        "start": 18,
+        "end": 23,
+        "type": "factor"
+      },
+      {
+        "start": 7,
+        "end": 13,
+        "type": "factor"
+      },
+      {
+        "start": 0,
+        "end": 5,
+        "type": "factor"
+      },
+      {
+        "start": 26,
+        "end": 31,
+        "type": "factor"
+      }
+    ],
+    "attributes": [],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "6efd3d95-0f45-404f-a0c9-39d53b1dc90e",
+    "text": "Our study suggests that osteosarcopenic elements exist even in very young populations.",
+    "notes": "",
+    "created": "2021-05-14T21:27:41.783017Z",
+    "modified": "2021-05-14T21:28:10.072754Z",
+    "relations": [
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 4
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "Our",
+      "study",
+      "suggests",
+      "that",
+      "osteosarcopenic",
+      "elements",
+      "exist",
+      "even",
+      "in",
+      "very",
+      "young",
+      "populations",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 2,
+        "end": 3,
+        "type": "epistemic"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "type": "association"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "evidence"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "type": "factor"
+      },
+      {
+        "start": 7,
+        "end": 12,
+        "type": "qualifier"
+      }
+    ],
+    "attributes": [],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "f706d066-d416-4fea-9502-3a1863338158",
+    "text": "Obesity's effect on HeRO catheters has not been amply addressed; therefore further prospective studies are warranted.",
+    "notes": "",
+    "created": "2021-05-14T21:28:34.840213Z",
+    "modified": "2021-05-14T21:29:40.077562Z",
+    "relations": [
+      {
+        "head": 1,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 4
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "Obesity",
+      "'s",
+      "effect",
+      "on",
+      "HeRO",
+      "catheters",
+      "has",
+      "not",
+      "been",
+      "amply",
+      "addressed",
+      ";",
+      "therefore",
+      "further",
+      "prospective",
+      "studies",
+      "are",
+      "warranted",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 1,
+        "type": "factor"
+      },
+      {
+        "start": 2,
+        "end": 3,
+        "type": "association"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "type": "factor"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "evidence"
+      },
+      {
+        "start": 7,
+        "end": 11,
+        "type": "magnitude"
+      }
+    ],
+    "attributes": [
+      {
+        "score": 0.8636868596076965,
+        "type": "causation",
+        "entity": 1
+      }
+    ],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "5d4a4766-7d0b-4d30-8e49-82529d26938e",
+    "text": "The specific mechanisms underlying the association between AMD and LIPC require further investigation.",
+    "notes": "",
+    "created": "2021-05-14T21:32:53.096379Z",
+    "modified": "2021-05-14T21:34:07.374131Z",
+    "relations": [
+      {
+        "head": 0,
+        "type": "arg0",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "type": "arg0",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "type": "arg0",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "type": "arg1",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "type": "modifier",
+        "tail": 5
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "The",
+      "specific",
+      "mechanisms",
+      "underlying",
+      "the",
+      "association",
+      "between",
+      "AMD",
+      "and",
+      "LIPC",
+      "require",
+      "further",
+      "investigation",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 5,
+        "end": 6,
+        "type": "association"
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "type": "factor"
+      },
+      {
+        "start": 9,
+        "end": 10,
+        "type": "factor"
+      },
+      {
+        "start": 0,
+        "end": 3,
+        "type": "factor"
+      },
+      {
+        "start": 3,
+        "end": 4,
+        "type": "association"
+      },
+      {
+        "start": 10,
+        "end": 13,
+        "type": "magnitude"
+      }
+    ],
+    "attributes": [
+      {
+        "score": 0.7856832146644592,
+        "type": "correlation",
+        "entity": 0
+      },
+      {
+        "type": "causation",
+        "entity": 4
+      }
+    ],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "fa41d7d8-338a-483c-a2fe-edaa456ddecc",
+    "text": "HeRO catheters offer a reliable, and possibly the last, alternative  in hemodialysis access-challenged patients.",
+    "notes": "",
+    "created": "2021-05-14T21:34:22.278489Z",
+    "modified": "2021-05-14T21:35:43.261549Z",
+    "relations": [],
+    "dataset": "pubmed",
+    "tokens": [
+      "HeRO",
+      "catheters",
+      "offer",
+      "a",
+      "reliable",
+      ",",
+      "and",
+      "possibly",
+      "the",
+      "last",
+      ",",
+      "alternative",
+      "in",
+      "hemodialysis",
+      "access",
+      "-",
+      "challenged",
+      "patients",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 4,
+        "end": 5,
+        "type": "magnitude"
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "type": "magnitude"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "factor"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "type": "factor"
+      },
+      {
+        "start": 11,
+        "end": 12,
+        "type": "factor"
+      }
+    ],
+    "attributes": [],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "55ae4818-ab01-4529-bf3f-526f39dc4e30",
+    "text": "Our data describe the good compliance of paediatric T1D patients treated at eight paediatric units in Spain following international standards of metabolic control.",
+    "notes": "",
+    "created": "2021-05-14T19:29:25.904722Z",
+    "modified": "2021-05-14T21:39:09.762506Z",
+    "relations": [],
+    "dataset": "pubmed",
+    "tokens": [
+      "Our",
+      "data",
+      "describe",
+      "the",
+      "good",
+      "compliance",
+      "of",
+      "paediatric",
+      "T1D",
+      "patients",
+      "treated",
+      "at",
+      "eight",
+      "paediatric",
+      "units",
+      "in",
+      "Spain",
+      "following",
+      "international",
+      "standards",
+      "of",
+      "metabolic",
+      "control",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 2,
+        "end": 3,
+        "type": "epistemic"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "evidence"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "qualifier"
+      },
+      {
+        "start": 21,
+        "end": 23,
+        "type": "factor"
+      },
+      {
+        "start": 7,
+        "end": 15,
+        "type": "factor"
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "type": "factor"
+      }
+    ],
+    "attributes": [],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "a68f1135-4e32-47b9-a233-68c01604aa1c",
+    "text": "Our findings support guidelines that advocate oxygen therapy, if required in patients with morbid obesity, be titrated to achieve a target Spo2 of 88-92%.",
+    "notes": "",
+    "created": "2021-05-14T21:54:49.458012Z",
+    "modified": "2021-05-14T22:01:37.931492Z",
+    "relations": [],
+    "dataset": "pubmed",
+    "tokens": [
+      "Our",
+      "findings",
+      "support",
+      "guidelines",
+      "that",
+      "advocate",
+      "oxygen",
+      "therapy",
+      ",",
+      "if",
+      "required",
+      "in",
+      "patients",
+      "with",
+      "morbid",
+      "obesity",
+      ",",
+      "be",
+      "titrated",
+      "to",
+      "achieve",
+      "a",
+      "target",
+      "Spo2",
+      "of",
+      "88",
+      "-",
+      "92",
+      "%",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "evidence"
+      },
+      {
+        "start": 2,
+        "end": 3,
+        "type": "epistemic"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "type": "factor"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "factor"
+      },
+      {
+        "start": 23,
+        "end": 24,
+        "type": "factor"
+      }
+    ],
+    "attributes": [],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "53a96586-352b-4345-97a0-1e5ef5b80dcf",
+    "text": "Similarities in the pregabalin efficacy profiles, including time to onset and magnitude of response, were confirmed regardless of the neuropathic pain condition.",
+    "notes": "",
+    "created": "2021-05-14T22:10:25.494247Z",
+    "modified": "2021-05-14T22:13:05.477932Z",
+    "relations": [
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 5
+      },
+      {
+        "head": 4,
+        "type": "subtype",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "type": "subtype",
+        "tail": 3
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "Similarities",
+      "in",
+      "the",
+      "pregabalin",
+      "efficacy",
+      "profiles",
+      ",",
+      "including",
+      "time",
+      "to",
+      "onset",
+      "and",
+      "magnitude",
+      "of",
+      "response",
+      ",",
+      "were",
+      "confirmed",
+      "regardless",
+      "of",
+      "the",
+      "neuropathic",
+      "pain",
+      "condition",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 17,
+        "end": 18,
+        "type": "epistemic"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "association"
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "type": "factor"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "type": "factor"
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "type": "factor"
+      },
+      {
+        "start": 18,
+        "end": 24,
+        "type": "qualifier"
+      }
+    ],
+    "attributes": [
+      {
+        "type": "correlation",
+        "entity": 1
+      }
+    ],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "9dd28e33-ada7-4797-9dfc-65df34e3d11f",
+    "text": "Therefore, it has not been registered as a clinical intervention trial.",
+    "notes": "",
+    "created": "2021-05-14T22:23:26.917898Z",
+    "modified": "2021-05-14T22:23:44.739837Z",
+    "relations": [],
+    "dataset": "pubmed",
+    "tokens": [
+      "Therefore",
+      ",",
+      "it",
+      "has",
+      "not",
+      "been",
+      "registered",
+      "as",
+      "a",
+      "clinical",
+      "intervention",
+      "trial",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "type": "evidence"
+      }
+    ],
+    "attributes": [],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "d122c888-675d-428d-bb10-853464968813",
+    "text": "MNA is a well-developed questionnaire which evaluates malnutrition in COPD patients.",
+    "notes": "",
+    "created": "2021-05-14T22:30:10.285958Z",
+    "modified": "2021-05-14T22:30:48.769216Z",
+    "relations": [
+      {
+        "head": 1,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "type": "subtype",
+        "tail": 0
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "MNA",
+      "is",
+      "a",
+      "well",
+      "-",
+      "developed",
+      "questionnaire",
+      "which",
+      "evaluates",
+      "malnutrition",
+      "in",
+      "COPD",
+      "patients",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 1,
+        "type": "factor"
+      },
+      {
+        "start": 8,
+        "end": 9,
+        "type": "association"
+      },
+      {
+        "start": 9,
+        "end": 10,
+        "type": "factor"
+      },
+      {
+        "start": 10,
+        "end": 13,
+        "type": "qualifier"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "type": "factor"
+      }
+    ],
+    "attributes": [
+      {
+        "score": 0.46760666370391846,
+        "type": "indicates",
+        "entity": 1
+      }
+    ],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "c1cd06d3-7efb-4d23-8dd7-0f2d63787e05",
+    "text": "The decreasing trends in nutritional status and appetite  level after SCI require special attention.",
+    "notes": "",
+    "created": "2021-05-14T18:24:35.589706Z",
+    "modified": "2021-05-15T01:07:42.408548Z",
+    "relations": [
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 3
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "The",
+      "decreasing",
+      "trends",
+      "in",
+      "nutritional",
+      "status",
+      "and",
+      "appetite",
+      "level",
+      "after",
+      "SCI",
+      "require",
+      "special",
+      "attention",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 4,
+        "end": 6,
+        "type": "factor"
+      },
+      {
+        "start": 7,
+        "end": 9,
+        "type": "factor"
+      },
+      {
+        "start": 1,
+        "end": 4,
+        "type": "association"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "qualifier"
+      }
+    ],
+    "attributes": [
+      {
+        "type": "sign-",
+        "entity": 2
+      }
+    ],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "896d0b61-bd8b-41fc-9c30-9852a06af154",
+    "text": "In addition, it is planned that they will guide establishment of a national policy for the diagnosis and treatment of FH in Turkey.",
+    "notes": "",
+    "created": "2021-05-14T18:38:10.081126Z",
+    "modified": "2021-05-15T01:13:27.502518Z",
+    "relations": [
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "type": "arg0",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "type": "arg1",
+        "tail": 5
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "In",
+      "addition",
+      ",",
+      "it",
+      "is",
+      "planned",
+      "that",
+      "they",
+      "will",
+      "guide",
+      "establishment",
+      "of",
+      "a",
+      "national",
+      "policy",
+      "for",
+      "the",
+      "diagnosis",
+      "and",
+      "treatment",
+      "of",
+      "FH",
+      "in",
+      "Turkey",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 5,
+        "end": 6,
+        "type": "epistemic"
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "type": "factor"
+      },
+      {
+        "start": 8,
+        "end": 9,
+        "type": "magnitude"
+      },
+      {
+        "start": 9,
+        "end": 10,
+        "type": "association"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "type": "qualifier"
+      },
+      {
+        "start": 12,
+        "end": 22,
+        "type": "factor"
+      }
+    ],
+    "attributes": [
+      {
+        "score": 0.4782145321369171,
+        "type": "causation",
+        "entity": 3
+      }
+    ],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "89f4e4cf-c381-4da5-b853-09efdf1c7376",
+    "text": "Interventions to reduce indoor air pollution and to promote timely administration of measles vaccination are urgently needed to reduce the burden of severe pneumonia in children in Tanzania.",
+    "notes": "",
+    "created": "2021-05-14T18:42:55.074247Z",
+    "modified": "2021-05-15T01:23:19.219055Z",
+    "relations": [
+      {
+        "head": 0,
+        "type": "q-",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 6
+      },
+      {
+        "head": 3,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "type": "arg0",
+        "tail": 6
+      },
+      {
+        "head": 3,
+        "type": "arg1",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 8
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "type": "q-",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "type": "q+",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "type": "q-",
+        "tail": 7
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "Interventions",
+      "to",
+      "reduce",
+      "indoor",
+      "air",
+      "pollution",
+      "and",
+      "to",
+      "promote",
+      "timely",
+      "administration",
+      "of",
+      "measles",
+      "vaccination",
+      "are",
+      "urgently",
+      "needed",
+      "to",
+      "reduce",
+      "the",
+      "burden",
+      "of",
+      "severe",
+      "pneumonia",
+      "in",
+      "children",
+      "in",
+      "Tanzania",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 1,
+        "type": "factor"
+      },
+      {
+        "start": 2,
+        "end": 3,
+        "type": "association"
+      },
+      {
+        "start": 8,
+        "end": 9,
+        "type": "association"
+      },
+      {
+        "start": 18,
+        "end": 19,
+        "type": "association"
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "type": "factor"
+      },
+      {
+        "start": 24,
+        "end": 28,
+        "type": "qualifier"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "factor"
+      },
+      {
+        "start": 19,
+        "end": 24,
+        "type": "factor"
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "type": "qualifier"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "magnitude"
+      }
+    ],
+    "attributes": [
+      {
+        "score": 0.875536322593689,
+        "type": "sign-",
+        "entity": 1
+      },
+      {
+        "score": 0.7112813591957092,
+        "type": "causation",
+        "entity": 1
+      },
+      {
+        "score": 0.5506698489189148,
+        "type": "causation",
+        "entity": 2
+      },
+      {
+        "score": 0.870472252368927,
+        "type": "sign-",
+        "entity": 3
+      },
+      {
+        "score": 0.9048817157745361,
+        "type": "causation",
+        "entity": 3
+      },
+      {
+        "type": "sign+",
+        "entity": 2
+      }
+    ],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "40054203-6fdc-4fb0-8b9c-76888be9dbd5",
+    "text": "Progress in reducing breast cancer deaths through early detection needs to focus on attitudinal change among African migrants.",
+    "notes": "",
+    "created": "2021-05-14T19:07:10.576610Z",
+    "modified": "2021-05-15T01:33:53.139062Z",
+    "relations": [
+      {
+        "head": 0,
+        "type": "arg1",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "type": "arg0",
+        "tail": 4
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "Progress",
+      "in",
+      "reducing",
+      "breast",
+      "cancer",
+      "deaths",
+      "through",
+      "early",
+      "detection",
+      "needs",
+      "to",
+      "focus",
+      "on",
+      "attitudinal",
+      "change",
+      "among",
+      "African",
+      "migrants",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 2,
+        "end": 3,
+        "type": "association"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "factor"
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "type": "factor"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "type": "qualifier"
+      },
+      {
+        "start": 7,
+        "end": 9,
+        "type": "factor"
+      }
+    ],
+    "attributes": [
+      {
+        "score": 0.8652611970901489,
+        "type": "sign-",
+        "entity": 0
+      },
+      {
+        "type": "causation",
+        "entity": 0
+      }
+    ],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "5c6e3c11-72b1-46ec-908e-1a4ba3d6bc42",
+    "text": "This study sets the foundation for larger studies to evaluate the  superiority of TNP over traditional dressings in high-risk foot wounds.",
+    "notes": "",
+    "created": "2021-05-14T19:13:36.845218Z",
+    "modified": "2021-05-15T01:37:57.051293Z",
+    "relations": [
+      {
+        "head": 0,
+        "type": "arg0",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "type": "comp_to",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "type": "modifier",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "type": "modifier",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "type": "arg1",
+        "tail": 6
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "This",
+      "study",
+      "sets",
+      "the",
+      "foundation",
+      "for",
+      "larger",
+      "studies",
+      "to",
+      "evaluate",
+      "the",
+      "superiority",
+      "of",
+      "TNP",
+      "over",
+      "traditional",
+      "dressings",
+      "in",
+      "high",
+      "-",
+      "risk",
+      "foot",
+      "wounds",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 11,
+        "end": 12,
+        "type": "association"
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "type": "factor"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "evidence"
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "type": "factor"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "type": "evidence"
+      },
+      {
+        "start": 9,
+        "end": 10,
+        "type": "epistemic"
+      },
+      {
+        "start": 18,
+        "end": 23,
+        "type": "factor"
+      }
+    ],
+    "attributes": [
+      {
+        "type": "comparison",
+        "entity": 0
+      }
+    ],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "1fc71642-7491-4015-acbc-ee9253a5d096",
+    "text": "Future research could investigate how to  improve engagement at initial invitations.",
+    "notes": "",
+    "created": "2021-05-14T19:20:16.650117Z",
+    "modified": "2021-05-15T01:39:54.569908Z",
+    "relations": [
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 5
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "Future",
+      "research",
+      "could",
+      "investigate",
+      "how",
+      "to",
+      "improve",
+      "engagement",
+      "at",
+      "initial",
+      "invitations",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 2,
+        "end": 3,
+        "type": "magnitude"
+      },
+      {
+        "start": 3,
+        "end": 4,
+        "type": "epistemic"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "type": "association"
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "type": "factor"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "evidence"
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "type": "qualifier"
+      }
+    ],
+    "attributes": [
+      {
+        "score": 0.9405556321144104,
+        "type": "causation",
+        "entity": 2
+      }
+    ],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "4bd0df08-e6fe-426e-a373-8e96cf0d1a2f",
+    "text": "Costs of care for  patients who were super obese, likewise, were increased.",
+    "notes": "",
+    "created": "2021-05-14T19:26:53.922812Z",
+    "modified": "2021-05-15T01:44:33.052508Z",
+    "relations": [
+      {
+        "head": 0,
+        "type": "arg1",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "type": "modifier",
+        "tail": 2
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "Costs",
+      "of",
+      "care",
+      "for",
+      "patients",
+      "who",
+      "were",
+      "super",
+      "obese",
+      ",",
+      "likewise",
+      ",",
+      "were",
+      "increased",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 13,
+        "end": 14,
+        "type": "association"
+      },
+      {
+        "start": 0,
+        "end": 3,
+        "type": "factor"
+      },
+      {
+        "start": 3,
+        "end": 9,
+        "type": "qualifier"
+      }
+    ],
+    "attributes": [
+      {
+        "score": 0.967937171459198,
+        "type": "sign+",
+        "entity": 0
+      },
+      {
+        "type": "causation",
+        "entity": 0
+      }
+    ],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "971799a2-af28-4728-8155-25494ab91e4f",
+    "text": "This study is the first to document amelioration of urinary incontinence symptoms in massive weight loss patients undergoing body-contouring  procedures.",
+    "notes": "",
+    "created": "2021-05-14T21:24:59.971990Z",
+    "modified": "2021-05-15T01:48:19.234014Z",
+    "relations": [
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 4
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "This",
+      "study",
+      "is",
+      "the",
+      "first",
+      "to",
+      "document",
+      "amelioration",
+      "of",
+      "urinary",
+      "incontinence",
+      "symptoms",
+      "in",
+      "massive",
+      "weight",
+      "loss",
+      "patients",
+      "undergoing",
+      "body",
+      "-",
+      "contouring",
+      "procedures",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 6,
+        "end": 7,
+        "type": "epistemic"
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "type": "association"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "evidence"
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "type": "factor"
+      },
+      {
+        "start": 12,
+        "end": 22,
+        "type": "qualifier"
+      }
+    ],
+    "attributes": [
+      {
+        "type": "causation",
+        "entity": 1
+      }
+    ],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "f5fa4ed9-6a38-464a-acce-07d6287812af",
+    "text": "Future work will focus on evaluating  the mechanism of this outcome and documenting improvement in an objective, prospective manner.",
+    "notes": "",
+    "created": "2021-05-14T21:25:55.909988Z",
+    "modified": "2021-05-15T01:49:27.986076Z",
+    "relations": [
+      {
+        "head": 0,
+        "type": "modifier",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "type": "modifier",
+        "tail": 5
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "Future",
+      "work",
+      "will",
+      "focus",
+      "on",
+      "evaluating",
+      "the",
+      "mechanism",
+      "of",
+      "this",
+      "outcome",
+      "and",
+      "documenting",
+      "improvement",
+      "in",
+      "an",
+      "objective",
+      ",",
+      "prospective",
+      "manner",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 13,
+        "end": 14,
+        "type": "association"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "evidence"
+      },
+      {
+        "start": 6,
+        "end": 11,
+        "type": "factor"
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "type": "epistemic"
+      },
+      {
+        "start": 12,
+        "end": 13,
+        "type": "epistemic"
+      },
+      {
+        "start": 14,
+        "end": 20,
+        "type": "qualifier"
+      }
+    ],
+    "attributes": [
+      {
+        "type": "causation",
+        "entity": 0
+      }
+    ],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "6b41dbf4-13fb-4786-949d-7a940f7017a2",
+    "text": "Although the inverse association attributable to these biomarkers is substantial, future research should explore benefits of exercise beyond these biomarkers of risk.",
+    "notes": "",
+    "created": "2021-05-14T21:30:08.970705Z",
+    "modified": "2021-05-15T01:53:09.469178Z",
+    "relations": [
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "type": "arg0",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "type": "arg0",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 9
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 8
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 6
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "Although",
+      "the",
+      "inverse",
+      "association",
+      "attributable",
+      "to",
+      "these",
+      "biomarkers",
+      "is",
+      "substantial",
+      ",",
+      "future",
+      "research",
+      "should",
+      "explore",
+      "benefits",
+      "of",
+      "exercise",
+      "beyond",
+      "these",
+      "biomarkers",
+      "of",
+      "risk",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 2,
+        "end": 3,
+        "type": "magnitude"
+      },
+      {
+        "start": 3,
+        "end": 4,
+        "type": "association"
+      },
+      {
+        "start": 9,
+        "end": 10,
+        "type": "magnitude"
+      },
+      {
+        "start": 15,
+        "end": 16,
+        "type": "association"
+      },
+      {
+        "start": 17,
+        "end": 18,
+        "type": "factor"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "type": "factor"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "evidence"
+      },
+      {
+        "start": 19,
+        "end": 23,
+        "type": "factor"
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "type": "magnitude"
+      },
+      {
+        "start": 14,
+        "end": 15,
+        "type": "epistemic"
+      }
+    ],
+    "attributes": [
+      {
+        "score": 0.5548335909843445,
+        "type": "correlation",
+        "entity": 1
+      },
+      {
+        "type": "causation",
+        "entity": 3
+      }
+    ],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "c6feffc3-b320-4261-9f76-bef15b938f01",
+    "text": "As the implementation of EN is simple and has good compliance, family EN is proven to be feasible.",
+    "notes": "",
+    "created": "2021-05-14T21:38:14.755424Z",
+    "modified": "2021-05-15T01:55:49.489626Z",
+    "relations": [
+      {
+        "head": 4,
+        "type": "arg1",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "type": "modifier",
+        "tail": 3
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "As",
+      "the",
+      "implementation",
+      "of",
+      "EN",
+      "is",
+      "simple",
+      "and",
+      "has",
+      "good",
+      "compliance",
+      ",",
+      "family",
+      "EN",
+      "is",
+      "proven",
+      "to",
+      "be",
+      "feasible",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 10,
+        "end": 11,
+        "type": "factor"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "factor"
+      },
+      {
+        "start": 1,
+        "end": 5,
+        "type": "factor"
+      },
+      {
+        "start": 15,
+        "end": 16,
+        "type": "epistemic"
+      },
+      {
+        "start": 18,
+        "end": 19,
+        "type": "association"
+      }
+    ],
+    "attributes": [],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "6007d397-d626-4733-b81f-9b249743e910",
+    "text": "Larger prospective series are necessary to evaluate if the modest benefits are worth the risks of secondary LAGB.",
+    "notes": "",
+    "created": "2021-05-14T22:01:48.592051Z",
+    "modified": "2021-05-15T01:58:45.655468Z",
+    "relations": [
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "type": "arg0",
+        "tail": 1
+      },
+      {
+        "head": 5,
+        "type": "arg0",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 2
+      },
+      {
+        "head": 5,
+        "type": "modifier",
+        "tail": 2
+      },
+      {
+        "head": 5,
+        "type": "modifier",
+        "tail": 0
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "Larger",
+      "prospective",
+      "series",
+      "are",
+      "necessary",
+      "to",
+      "evaluate",
+      "if",
+      "the",
+      "modest",
+      "benefits",
+      "are",
+      "worth",
+      "the",
+      "risks",
+      "of",
+      "secondary",
+      "LAGB",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 6,
+        "end": 7,
+        "type": "epistemic"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "factor"
+      },
+      {
+        "start": 0,
+        "end": 3,
+        "type": "evidence"
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "type": "association"
+      },
+      {
+        "start": 9,
+        "end": 10,
+        "type": "magnitude"
+      },
+      {
+        "start": 14,
+        "end": 15,
+        "type": "association"
+      }
+    ],
+    "attributes": [
+      {
+        "type": "causation",
+        "entity": 3
+      }
+    ],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "e1011b2d-8e88-481e-92dd-a3021c7a7d4f",
+    "text": "We support its use for at least 1 week after discharge.",
+    "notes": "",
+    "created": "2021-05-14T22:08:48.872111Z",
+    "modified": "2021-05-15T02:02:51.372444Z",
+    "relations": [],
+    "dataset": "pubmed",
+    "tokens": [
+      "We",
+      "support",
+      "its",
+      "use",
+      "for",
+      "at",
+      "least",
+      "1",
+      "week",
+      "after",
+      "discharge",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 10,
+        "end": 11,
+        "type": "factor"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "factor"
+      },
+      {
+        "start": 4,
+        "end": 11,
+        "type": "qualifier"
+      }
+    ],
+    "attributes": [],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "b86a86b4-cf32-4ef5-a01a-9bd79a8b27ae",
+    "text": "These data support the potential for extrapolating analgesic efficacy to other neuropathic pain conditions.",
+    "notes": "",
+    "created": "2021-05-14T22:13:14.855647Z",
+    "modified": "2021-05-15T02:04:34.025482Z",
+    "relations": [
+      {
+        "head": 5,
+        "type": "arg0",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "type": "arg1",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 5,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 5,
+        "type": "modifier",
+        "tail": 2
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "These",
+      "data",
+      "support",
+      "the",
+      "potential",
+      "for",
+      "extrapolating",
+      "analgesic",
+      "efficacy",
+      "to",
+      "other",
+      "neuropathic",
+      "pain",
+      "conditions",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 2,
+        "end": 3,
+        "type": "epistemic"
+      },
+      {
+        "start": 4,
+        "end": 5,
+        "type": "magnitude"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "evidence"
+      },
+      {
+        "start": 7,
+        "end": 9,
+        "type": "factor"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "type": "factor"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "type": "association"
+      }
+    ],
+    "attributes": [],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "39d90f20-a4be-4bc3-80d2-dc527054f703",
+    "text": "With the worldwide development of obesity and bariatric surgery, this study demonstrated that the operation should be proposed to patients with massive weight loss to improve quality of life.",
+    "notes": "",
+    "created": "2021-05-14T22:30:56.546891Z",
+    "modified": "2021-05-15T02:11:33.013392Z",
+    "relations": [
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 5
+      },
+      {
+        "head": 4,
+        "type": "q+",
+        "tail": 5
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "With",
+      "the",
+      "worldwide",
+      "development",
+      "of",
+      "obesity",
+      "and",
+      "bariatric",
+      "surgery",
+      ",",
+      "this",
+      "study",
+      "demonstrated",
+      "that",
+      "the",
+      "operation",
+      "should",
+      "be",
+      "proposed",
+      "to",
+      "patients",
+      "with",
+      "massive",
+      "weight",
+      "loss",
+      "to",
+      "improve",
+      "quality",
+      "of",
+      "life",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 12,
+        "end": 13,
+        "type": "epistemic"
+      },
+      {
+        "start": 16,
+        "end": 17,
+        "type": "magnitude"
+      },
+      {
+        "start": 26,
+        "end": 27,
+        "type": "association"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "evidence"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "factor"
+      },
+      {
+        "start": 27,
+        "end": 30,
+        "type": "factor"
+      },
+      {
+        "start": 20,
+        "end": 25,
+        "type": "factor"
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "type": "factor"
+      },
+      {
+        "start": 7,
+        "end": 9,
+        "type": "factor"
+      }
+    ],
+    "attributes": [
+      {
+        "score": 0.8991074562072754,
+        "type": "causation",
+        "entity": 2
+      }
+    ],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "5ae0f0b8-fed0-4bbc-89b1-43dd16763e51",
+    "text": "Earlier diagnosis and treatment of patients with FH are needed to reduce CHD risk in these patients.",
+    "notes": "",
+    "created": "2021-05-14T18:40:58.659668Z",
+    "modified": "2021-05-16T18:43:34.783608Z",
+    "relations": [
+      {
+        "head": 0,
+        "type": "arg1",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "type": "q-",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "type": "q-",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "type": "arg1",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 6
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "Earlier",
+      "diagnosis",
+      "and",
+      "treatment",
+      "of",
+      "patients",
+      "with",
+      "FH",
+      "are",
+      "needed",
+      "to",
+      "reduce",
+      "CHD",
+      "risk",
+      "in",
+      "these",
+      "patients",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 1,
+        "type": "association"
+      },
+      {
+        "start": 1,
+        "end": 2,
+        "type": "factor"
+      },
+      {
+        "start": 11,
+        "end": 12,
+        "type": "association"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "factor"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "type": "qualifier"
+      },
+      {
+        "start": 3,
+        "end": 8,
+        "type": "factor"
+      },
+      {
+        "start": 9,
+        "end": 10,
+        "type": "magnitude"
+      }
+    ],
+    "attributes": [
+      {
+        "score": 0.8756187558174133,
+        "type": "sign-",
+        "entity": 2
+      },
+      {
+        "score": 0.8519018888473511,
+        "type": "causation",
+        "entity": 2
+      },
+      {
+        "type": "comparison",
+        "entity": 0
+      }
+    ],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "7d85e0d6-3c5f-4125-81a3-759896388f2a",
+    "text": "These findings highlight the need for more prospective research into multicomponent physical activity interventions.",
+    "notes": "",
+    "created": "2021-05-14T21:23:48.709444Z",
+    "modified": "2021-05-16T18:44:28.732600Z",
+    "relations": [
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 2
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "These",
+      "findings",
+      "highlight",
+      "the",
+      "need",
+      "for",
+      "more",
+      "prospective",
+      "research",
+      "into",
+      "multicomponent",
+      "physical",
+      "activity",
+      "interventions",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 2,
+        "end": 3,
+        "type": "epistemic"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "type": "association"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "evidence"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "type": "factor"
+      },
+      {
+        "start": 7,
+        "end": 9,
+        "type": "factor"
+      },
+      {
+        "start": 4,
+        "end": 5,
+        "type": "magnitude"
+      }
+    ],
+    "attributes": [
+      {
+        "type": "sign+",
+        "entity": 1
+      },
+      {
+        "type": "comparison",
+        "entity": 1
+      }
+    ],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "50c54b15-34f9-400f-bbbf-c2e088e9de23",
+    "text": "\"Dietary patterns of the elderly population of Villanueva are departing from the traditional Mediterranean diet and though adequate consumption of fruits, milk/dairy products, oils/fats and sugar/confectionery has been achieved, cereals/grain products, vegetables and the meat, fish, eggs group consumption was below the desirable levels.\"",
+    "notes": "",
+    "created": "2021-05-14T18:16:30.253081Z",
+    "modified": "2021-05-16T19:05:11.980411Z",
+    "relations": [
+      {
+        "head": 4,
+        "type": "arg0",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "type": "arg1",
+        "tail": 10
+      },
+      {
+        "head": 2,
+        "type": "comp_to",
+        "tail": 9
+      },
+      {
+        "head": 4,
+        "type": "modifier",
+        "tail": 14
+      },
+      {
+        "head": 15,
+        "type": "arg1",
+        "tail": 11
+      },
+      {
+        "head": 15,
+        "type": "arg1",
+        "tail": 12
+      },
+      {
+        "head": 15,
+        "type": "arg1",
+        "tail": 6
+      },
+      {
+        "head": 15,
+        "type": "arg1",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 13
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 8
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "\"",
+      "Dietary",
+      "patterns",
+      "of",
+      "the",
+      "elderly",
+      "population",
+      "of",
+      "Villanueva",
+      "are",
+      "departing",
+      "from",
+      "the",
+      "traditional",
+      "Mediterranean",
+      "diet",
+      "and",
+      "though",
+      "adequate",
+      "consumption",
+      "of",
+      "fruits",
+      ",",
+      "milk",
+      "/",
+      "dairy",
+      "products",
+      ",",
+      "oils",
+      "/",
+      "fats",
+      "and",
+      "sugar",
+      "/",
+      "confectionery",
+      "has",
+      "been",
+      "achieved",
+      ",",
+      "cereals",
+      "/",
+      "grain",
+      "products",
+      ",",
+      "vegetables",
+      "and",
+      "the",
+      "meat",
+      ",",
+      "fish",
+      ",",
+      "eggs",
+      "group",
+      "consumption",
+      "was",
+      "below",
+      "the",
+      "desirable",
+      "levels",
+      ".",
+      "\""
+    ],
+    "entities": [
+      {
+        "start": 44,
+        "end": 45,
+        "type": "factor"
+      },
+      {
+        "start": 49,
+        "end": 50,
+        "type": "factor"
+      },
+      {
+        "start": 55,
+        "end": 56,
+        "type": "association"
+      },
+      {
+        "start": 1,
+        "end": 3,
+        "type": "factor"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "association"
+      },
+      {
+        "start": 46,
+        "end": 48,
+        "type": "factor"
+      },
+      {
+        "start": 28,
+        "end": 31,
+        "type": "factor"
+      },
+      {
+        "start": 32,
+        "end": 35,
+        "type": "factor"
+      },
+      {
+        "start": 51,
+        "end": 54,
+        "type": "factor"
+      },
+      {
+        "start": 56,
+        "end": 59,
+        "type": "factor"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "factor"
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "type": "factor"
+      },
+      {
+        "start": 23,
+        "end": 27,
+        "type": "factor"
+      },
+      {
+        "start": 39,
+        "end": 43,
+        "type": "factor"
+      },
+      {
+        "start": 3,
+        "end": 9,
+        "type": "qualifier"
+      },
+      {
+        "start": 37,
+        "end": 38,
+        "type": "association"
+      }
+    ],
+    "attributes": [
+      {
+        "score": 0.41582053899765015,
+        "type": "sign-",
+        "entity": 2
+      },
+      {
+        "type": "comparison",
+        "entity": 2
+      }
+    ],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "85ca6254-a89e-4008-ad5d-5a5727b95e5e",
+    "text": "These results suggest that maternal eating and emotion responsiveness are important for understanding the interpersonal context of feeding behaviors, and child weight outcomes.",
+    "notes": "",
+    "created": "2021-05-14T22:24:01.505599Z",
+    "modified": "2021-05-16T19:45:29.650009Z",
+    "relations": [
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "type": "arg0",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "type": "arg0",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 7
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "These",
+      "results",
+      "suggest",
+      "that",
+      "maternal",
+      "eating",
+      "and",
+      "emotion",
+      "responsiveness",
+      "are",
+      "important",
+      "for",
+      "understanding",
+      "the",
+      "interpersonal",
+      "context",
+      "of",
+      "feeding",
+      "behaviors",
+      ",",
+      "and",
+      "child",
+      "weight",
+      "outcomes",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 2,
+        "end": 3,
+        "type": "epistemic"
+      },
+      {
+        "start": 12,
+        "end": 13,
+        "type": "association"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "evidence"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "type": "factor"
+      },
+      {
+        "start": 7,
+        "end": 9,
+        "type": "factor"
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "type": "factor"
+      },
+      {
+        "start": 13,
+        "end": 19,
+        "type": "factor"
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "type": "magnitude"
+      }
+    ],
+    "attributes": [
+      {
+        "type": "indicates",
+        "entity": 1
+      }
+    ],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "5bb9f3f4-25de-44e3-bacb-69c4f215cca1",
+    "text": "Endoscopic band removal can be utilized with patients who have a more advanced BE and migration into the gastric lumen.",
+    "notes": "",
+    "created": "2021-05-14T19:27:51.127276Z",
+    "modified": "2021-05-19T19:12:41.094266Z",
+    "relations": [],
+    "dataset": "pubmed",
+    "tokens": [
+      "Endoscopic",
+      "band",
+      "removal",
+      "can",
+      "be",
+      "utilized",
+      "with",
+      "patients",
+      "who",
+      "have",
+      "a",
+      "more",
+      "advanced",
+      "BE",
+      "and",
+      "migration",
+      "into",
+      "the",
+      "gastric",
+      "lumen",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "factor"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "type": "factor"
+      },
+      {
+        "start": 7,
+        "end": 14,
+        "type": "factor"
+      }
+    ],
+    "attributes": [],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "5ee7eb6d-0099-45a5-b73e-c1505758e1c5",
+    "text": "Our data cannot therefore support extension of current use of bevacizumab in MBC.",
+    "notes": "",
+    "created": "2021-05-14T21:21:15.320973Z",
+    "modified": "2021-05-19T19:13:01.928043Z",
+    "relations": [],
+    "dataset": "pubmed",
+    "tokens": [
+      "Our",
+      "data",
+      "can",
+      "not",
+      "therefore",
+      "support",
+      "extension",
+      "of",
+      "current",
+      "use",
+      "of",
+      "bevacizumab",
+      "in",
+      "MBC",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "evidence"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "qualifier"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "type": "factor"
+      },
+      {
+        "start": 3,
+        "end": 4,
+        "type": "magnitude"
+      }
+    ],
+    "attributes": [],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "4629ffcd-1c17-4dd8-a1ff-7b3ffa7427d7",
+    "text": "The findings of this study substantiate the need for physical exercise to reduce  signs and symptoms associated with CVD risk, even among a young, healthy, generally active population.",
+    "notes": "",
+    "created": "2021-05-14T22:25:09.548300Z",
+    "modified": "2021-05-25T18:08:32.334977Z",
+    "relations": [
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "type": "arg0",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "type": "q-",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "type": "arg1",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "type": "arg0",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "type": "q-",
+        "tail": 5
+      },
+      {
+        "head": 5,
+        "type": "q+",
+        "tail": 4
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "The",
+      "findings",
+      "of",
+      "this",
+      "study",
+      "substantiate",
+      "the",
+      "need",
+      "for",
+      "physical",
+      "exercise",
+      "to",
+      "reduce",
+      "signs",
+      "and",
+      "symptoms",
+      "associated",
+      "with",
+      "CVD",
+      "risk",
+      ",",
+      "even",
+      "among",
+      "a",
+      "young",
+      ",",
+      "healthy",
+      ",",
+      "generally",
+      "active",
+      "population",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 5,
+        "end": 6,
+        "type": "epistemic"
+      },
+      {
+        "start": 12,
+        "end": 13,
+        "type": "association"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "factor"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "association"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "type": "factor"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "type": "factor"
+      },
+      {
+        "start": 0,
+        "end": 5,
+        "type": "evidence"
+      },
+      {
+        "start": 21,
+        "end": 31,
+        "type": "qualifier"
+      }
+    ],
+    "attributes": [
+      {
+        "score": 0.8779413104057312,
+        "type": "sign-",
+        "entity": 1
+      },
+      {
+        "score": 0.7187590003013611,
+        "type": "causation",
+        "entity": 1
+      },
+      {
+        "score": 0.8394100069999695,
+        "type": "correlation",
+        "entity": 3
+      },
+      {
+        "type": "sign+",
+        "entity": 3
+      }
+    ],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "a1d97750-0e45-421e-835d-00db21a3185d",
+    "text": "Some subjects were diagnosed with CD within a decade of serum collection, indicating that although most cases of undiagnosed CD are clinically  silent, some result in symptoms.",
+    "notes": "",
+    "created": "2021-05-14T22:04:41.785184Z",
+    "modified": "2021-05-25T18:08:59.499167Z",
+    "relations": [
+      {
+        "head": 4,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "type": "arg1",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "type": "arg0",
+        "tail": 5
+      },
+      {
+        "head": 5,
+        "type": "q+",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "type": "modifier",
+        "tail": 8
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "Some",
+      "subjects",
+      "were",
+      "diagnosed",
+      "with",
+      "CD",
+      "within",
+      "a",
+      "decade",
+      "of",
+      "serum",
+      "collection",
+      ",",
+      "indicating",
+      "that",
+      "although",
+      "most",
+      "cases",
+      "of",
+      "undiagnosed",
+      "CD",
+      "are",
+      "clinically",
+      "silent",
+      ",",
+      "some",
+      "result",
+      "in",
+      "symptoms",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 5,
+        "end": 6,
+        "type": "factor"
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "type": "epistemic"
+      },
+      {
+        "start": 28,
+        "end": 29,
+        "type": "factor"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "type": "factor"
+      },
+      {
+        "start": 26,
+        "end": 28,
+        "type": "association"
+      },
+      {
+        "start": 17,
+        "end": 21,
+        "type": "factor"
+      },
+      {
+        "start": 6,
+        "end": 12,
+        "type": "qualifier"
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "type": "factor"
+      },
+      {
+        "start": 25,
+        "end": 26,
+        "type": "magnitude"
+      }
+    ],
+    "attributes": [
+      {
+        "type": "causation",
+        "entity": 4
+      },
+      {
+        "type": "sign+",
+        "entity": 4
+      }
+    ],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "f89abe99-4e35-4b44-8287-00030ad84fef",
+    "text": "Further, that these results would appear to corroborate the concept of increasing physical activity, including aerobic activity, as a preventative measure.",
+    "notes": "",
+    "created": "2021-05-14T22:28:06.993831Z",
+    "modified": "2021-05-25T18:14:44.745865Z",
+    "relations": [
+      {
+        "head": 0,
+        "type": "arg1",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "type": "subtype",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "type": "modifier",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "type": "modifier",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 6,
+        "type": "arg0",
+        "tail": 3
+      },
+      {
+        "head": 6,
+        "type": "arg0",
+        "tail": 2
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "Further",
+      ",",
+      "that",
+      "these",
+      "results",
+      "would",
+      "appear",
+      "to",
+      "corroborate",
+      "the",
+      "concept",
+      "of",
+      "increasing",
+      "physical",
+      "activity",
+      ",",
+      "including",
+      "aerobic",
+      "activity",
+      ",",
+      "as",
+      "a",
+      "preventative",
+      "measure",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 12,
+        "end": 13,
+        "type": "association"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "evidence"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "factor"
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "type": "factor"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "type": "magnitude"
+      },
+      {
+        "start": 8,
+        "end": 9,
+        "type": "epistemic"
+      },
+      {
+        "start": 22,
+        "end": 23,
+        "type": "association"
+      }
+    ],
+    "attributes": [
+      {
+        "score": 0.9129132032394409,
+        "type": "sign+",
+        "entity": 0
+      },
+      {
+        "type": "causation",
+        "entity": 0
+      },
+      {
+        "type": "causation",
+        "entity": 6
+      },
+      {
+        "type": "sign-",
+        "entity": 6
+      }
+    ],
+    "user": "annotator2"
+  },
+  {
+    "uuid": "848d58aa-a56d-4cba-a40e-cf107e5182fd",
+    "text": "The improvements in cardiometabolic risk markers and cognitive performance after the berry beverage suggest preventive potential of berries with respect to type 2 diabetes, cardiovascular disease, and associated cognitive decline.",
+    "notes": "",
+    "created": "2021-05-14T22:34:44.852795Z",
+    "modified": "2021-05-25T18:27:10.497983Z",
+    "relations": [
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "type": "q-",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "type": "q-",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "type": "q-",
+        "tail": 5
+      },
+      {
+        "head": 10,
+        "type": "modifier",
+        "tail": 11
+      },
+      {
+        "head": 10,
+        "type": "modifier",
+        "tail": 9
+      },
+      {
+        "head": 10,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 10,
+        "type": "arg1",
+        "tail": 7
+      },
+      {
+        "head": 10,
+        "type": "arg1",
+        "tail": 4
+      },
+      {
+        "head": 10,
+        "type": "arg1",
+        "tail": 1
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "The",
+      "improvements",
+      "in",
+      "cardiometabolic",
+      "risk",
+      "markers",
+      "and",
+      "cognitive",
+      "performance",
+      "after",
+      "the",
+      "berry",
+      "beverage",
+      "suggest",
+      "preventive",
+      "potential",
+      "of",
+      "berries",
+      "with",
+      "respect",
+      "to",
+      "type",
+      "2",
+      "diabetes",
+      ",",
+      "cardiovascular",
+      "disease",
+      ",",
+      "and",
+      "associated",
+      "cognitive",
+      "decline",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 17,
+        "end": 18,
+        "type": "factor"
+      },
+      {
+        "start": 29,
+        "end": 30,
+        "type": "association"
+      },
+      {
+        "start": 1,
+        "end": 3,
+        "type": "association"
+      },
+      {
+        "start": 7,
+        "end": 9,
+        "type": "factor"
+      },
+      {
+        "start": 25,
+        "end": 27,
+        "type": "factor"
+      },
+      {
+        "start": 30,
+        "end": 32,
+        "type": "factor"
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "type": "factor"
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "type": "factor"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "qualifier"
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "type": "epistemic"
+      },
+      {
+        "start": 14,
+        "end": 15,
+        "type": "association"
+      },
+      {
+        "start": 15,
+        "end": 16,
+        "type": "magnitude"
+      }
+    ],
+    "attributes": [
+      {
+        "score": 0.47402429580688477,
+        "type": "correlation",
+        "entity": 1
+      },
+      {
+        "type": "causation",
+        "entity": 2
+      },
+      {
+        "type": "sign-",
+        "entity": 10
+      },
+      {
+        "type": "causation",
+        "entity": 10
+      }
+    ],
+    "user": "annotator2"
+  }
+]

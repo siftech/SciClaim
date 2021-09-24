@@ -1,0 +1,181 @@
+{
+  "entities": {
+    "association": {
+      "description": "A connection between stated or implied factors in the text.",
+      "short": "asso",
+      "verbose": "association",
+      "summary": "A span of text articulating a behavior of a factor such as 'increasing' or a causal/comparative/correlative relationship over multiple factors, e.g., 'associated with' or 'results in' and so forth.",
+      "may-contain": []
+    },
+    "factor": {
+      "description": "A variable or the value of a variable within a claim.",
+      "short": "fact",
+      "verbose": "factor",
+      "summary": "A span of text articulating a value under study, which could be either a dependent or independent variable.  These could be conditions such as 'control group' or specific properties such as 'sleep' or 'sleep duration.'",
+      "may-contain": ["association", "magnitude"]
+    },
+    "evidence": {
+      "description": "A phrase describing support for an association.",
+      "short": "evid",
+      "verbose": "evidence",
+      "summary": "A span of text articulating empirical or theoretical support for a claim, which could be a study (in the present or in another paper), a citation, or a methodology, e.g., 'Our simulation.'",
+      "may-contain": ["association", "qualifier"]
+    },
+    "epistemic": {
+      "description": "A phrase indicating the manner in which an association is known.",
+      "short": "epi",
+      "verbose": "epistemic",
+      "summary": "A span of text articulating the belief-level stance of the author against the claim in question, e.g., 'hypothesized' or 'demonstrated' or 'showed' or 'predicted.'  These often occur in conjunction with EVIDENCE entities, e.g., 'our study [showed]'",
+      "may-contain": []
+    },
+    "magnitude": {
+      "description": "A phrase indicating the effect size of the association (including negation).",
+      "short": "magn",
+      "verbose": "magnitude",
+      "summary": "A span of text articulating the degree, direction, or probability of an association such as 'may' or 'not' or 'positively' or 'negatively'",
+      "may-contain": []
+    },
+    "qualifier": {
+      "description": "A phrase that delimits an association.",
+      "short": "qual",
+      "verbose": "qualifier",
+      "summary": "A span of text articulating under which conditions, locations, times, or populations a claim holds.  These are often indicated by prepositional phrases, e.g., 'in diabetes patients' and 'in China' and 'from 2019 to 2020.'",
+      "may-contain": ["factor"]
+    }
+  },
+  "attributes": {
+    "sign+": {
+      "attribute" : true,
+      "appliesTo" : ["association"],
+      "description": "This association describes increasing/high[er] consequent.",
+      "summary": "When present on an ASSOCIATION entity, this attribute indicates that the association is a positive or increasing link over its factors, such that the correlation or causation is positive between the arg0 and arg1 factor(s).",
+      "short": "sn+",
+      "cluster": "valence",
+      "verbose": "sign+"
+    },
+    "test": {
+    	"attribute" : true,
+    	"appliesTo" : ["association"],
+    	"description": "This association describes a test over independent and/or dependent variables (factors).",
+      "summary": "When present on an ASSOCIATION entity, this attribute indicates that the association is a test or empirical methodology expressed over multiple factors, e.g., an ANOVA or ANCOVA.",
+    	"short": "test",
+    	"cluster": "effect",
+    	"verbose": "test"
+    },
+    "sign-": {
+      "attribute" : true,
+      "appliesTo" : ["association"],
+      "description": "This association describes decreasing/low[er] consequent.",
+      "summary": "When present on an ASSOCIATION entity, this attribute indicates that the association is a negative or decreasing link over its factors, such that the correlation or causation is negative, preventative, or inhibitory between the arg0 and arg1 factor(s).",
+      "short": "sn-",
+      "cluster": "valence",
+      "verbose": "sign-"
+    },
+    "indicates": {
+      "attribute" : true,
+      "appliesTo" : ["association"],
+      "description": "This association describes the antecident as signal for the consequent.",
+      "summary": "When present on an ASSOCIATION entity, this attribute indicates that the antecedent (arg0) factor(s) predict or signify or indicate the presence of the consequence (arg1) factor(s).",
+      "short": "indi",
+      "verbose": "indicates"
+    },
+    "causation": {
+      "attribute" : true,
+      "appliesTo" : ["association"],
+      "description": "This association describes the antecident as causing the consequent.",
+      "summary": "When present on an ASSOCIATION entity, this attribute indicates that the association is a causal influence, such that the antecedent (arg0) factor(s) causally influence the consequence (arg1) factor(s) in some fashion, e.g., in 'causes' or 'prevents' or 'inhibits' or 'improves'",
+      "short": "caus",
+      "cluster": "effect",
+      "verbose": "causation"
+    },
+    "comparison": {
+      "attribute" : true,
+      "appliesTo" : ["association"],
+      "description": "This association describes how an argument compares to a consequent wrt some comparator.",
+      "summary": "When present on an ASSOCIATION entity, this attribute indicates that the association is a comparison over one or more factors.  It could be a single factor, e.g., indicating that 'We observed higher EGFR' where 'higher' is a single-factor relative comparison.",
+      "short": "comp",
+      "verbose": "comparison"
+    },
+    "correlation": {
+      "attribute" : true,
+      "appliesTo" : ["association"],
+      "description": "This association describes a correlation between it's arguements.",
+      "summary": "When present on an ASSOCIATION entity, this attribute indicates that the association is a correlative statement, e.g., describing the 'association with' or 'interaction between' or 'correlation of' or 'link from' one factor to others.",
+      "short": "corr",
+      "cluster": "effect",
+      "verbose": "correlation"
+    }
+  },
+  "relations": {
+    "arg0": {
+      "description": "Select for a factor that parameterizes an association.",
+      "summary": "Connects an ASSOCIATION (head) to a FACTOR or another ASSOCIATION (tail), such that the head has the tail as an antecedent or precursor or cause or independent variable.",
+      "head": ["association"],
+      "tail": ["factor", "association"],
+      "short": "arg0",
+      "verbose": "arg0",
+      "reversible": false,
+      "symmetric": false
+    },
+    "arg1": {
+      "description": "Select for a factor that is attendent to (caused by, contrasting, etc) the main arguments in an association.",
+      "summary": "Connects an ASSOCIATION (head) to a FACTOR or another ASSOCIATION (tail), such that the head has the tail as a consequence or impact or effect or dependent variable.",
+      "head": ["association"],
+      "tail": ["factor", "association"],
+      "short": "arg1",
+      "verbose": "arg1",
+      "reversible": false,
+      "symmetric": false
+    },
+    "comp_to": {
+      "description": "Select for a factor that is being compared against.",
+      "summary": "Connects an ASSOCIATION (head) to a FACTOR or another ASSOCIATION (tail), such that the head has the tail as a frame of reference in a comparison.  This would hold from head H() to tail T() for phrases such as 'The effect was H(stronger) in group 1 than in T(group 2).'",
+      "head": ["association"],
+      "tail": ["factor", "association"],
+      "short": "comp_to",
+      "verbose": "comp_to",
+      "reversible": false,
+      "symmetric": false
+    },
+    "modifier": {
+      "description": "Select if a modifying phrase is attached to this association.",
+      "summary": "Connects an ASSOCIATION (head) to any one of EVIDENCE, EPISTEMIC, MAGNITUDE, or QUALIFIER (tail), such that the head is modified by the tail and the tail somehow applies to the head to describe or constrain it.  For instance, 'We T(predicted) the H(increase).'",
+      "head": ["association"],
+      "tail": ["evidence", "epistemic", "magnitude", "qualifier"],
+      "short": "modi",
+      "verbose": "modifier",
+      "reversible": false,
+      "symmetric": false
+    },
+    "q+": {
+      "description": "Select if two factors are positively associated.",
+      "summary": "Connects a FACTOR (head) to another FACTOR (tail), indicating that the head is positively related to the tail, such that increasing the head would monotonically increase the tail.",
+      "head": ["factor"],
+      "tail": ["factor"],
+      "short": "q+",
+      "verbose": "q+",
+      "reversible": false,
+      "symmetric": false
+    },
+    "q-": {
+      "description": "Select if two factors are negatively associated.",
+      "summary": "Connects a FACTOR (head) to another FACTOR (tail), indicating that the head is negatively related to the tail, such that increasing the head would monotonically decrease the tail.",
+      "head": ["factor"],
+      "tail": ["factor"],
+      "short": "q-",
+      "verbose": "q-",
+      "reversible": false,
+      "symmetric": false
+    },
+    "subtype": {
+    	"description": "Select if the head has a subtype of the tail.",
+      "summary": "Connects a FACTOR (head) to a another FACTOR (tail), indicating that the head has the tail as a sub-category, sub-type, sub-condition, acronym equivalence, or definition.",
+    	"head": ["factor"],
+    	"tail": ["factor"],
+    	"short": "sub",
+    	"verbose": "subtype",
+      "reversible": false,
+    	"symmetric": false
+    }
+  }
+}

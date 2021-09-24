@@ -1,0 +1,2276 @@
+[
+  {
+    "uuid": "b3d935ad-8d81-4adb-a0ce-f947936d1add",
+    "text": "ApoD expression is likely not a predictor of recurrence in tamoxifen-treated patients.",
+    "notes": "",
+    "modified": "2020-11-06T03:36:15.695558Z",
+    "dataset": "pubmed",
+    "tokens": [
+      "ApoD",
+      "expression",
+      "is",
+      "likely",
+      "not",
+      "a",
+      "predictor",
+      "of",
+      "recurrence",
+      "in",
+      "tamoxifen",
+      "-",
+      "treated",
+      "patients",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "factor"
+      },
+      {
+        "start": 3,
+        "end": 4,
+        "type": "magnitude"
+      },
+      {
+        "start": 4,
+        "end": 5,
+        "type": "magnitude"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "type": "association"
+      },
+      {
+        "start": 8,
+        "end": 9,
+        "type": "factor"
+      },
+      {
+        "start": 9,
+        "end": 14,
+        "type": "qualifier"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "type": "arg1",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 5
+      }
+    ],
+    "attributes": [
+      {
+        "type": "indicates",
+        "entity": 3
+      }
+    ],
+    "user": "annotator1"
+  },
+  {
+    "uuid": "a22c3702-d28b-4368-ada5-e3934f481e99",
+    "modified": "2020-11-12T20:28:06.418460Z",
+    "dataset": "pubmed",
+    "tokens": [
+      "BCS",
+      "who",
+      "adopted",
+      "several",
+      "healthy",
+      "behaviors",
+      "simultaneously",
+      "had",
+      "better",
+      "HRQOL",
+      "than",
+      "one",
+      "healthy",
+      "behavior",
+      "alone",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "factor"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "type": "magnitude"
+      },
+      {
+        "start": 8,
+        "end": 9,
+        "type": "association"
+      },
+      {
+        "start": 9,
+        "end": 10,
+        "type": "factor"
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "type": "factor"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "type": "comp_to",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 0
+      }
+    ],
+    "attributes": [
+      {
+        "type": "comparison",
+        "entity": 2
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "7024d397-62d1-4141-a5bc-d994d03f1a54",
+    "modified": "2020-11-14T16:27:28.033365Z",
+    "dataset": "pubmed",
+    "tokens": [
+      "The",
+      "relative",
+      "risk",
+      "of",
+      "HFpEF",
+      "sign+",
+      "with",
+      "increasing",
+      "cardiac",
+      "radiation",
+      "exposure",
+      "during",
+      "contemporary",
+      "conformal",
+      "breast",
+      "cancer",
+      "radiotherapy",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "factor"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "type": "association"
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "type": "factor"
+      },
+      {
+        "start": 11,
+        "end": 17,
+        "type": "qualifier"
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "type": "association"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "type": "q+",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "type": "arg1",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "type": "arg0",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 0
+      }
+    ],
+    "attributes": [
+      {
+        "type": "sign+",
+        "entity": 1
+      },
+      {
+        "type": "sign+",
+        "entity": 4
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "6f2e51af-84d7-4d21-a50f-8e0c5962373e",
+    "modified": "2020-11-14T17:05:38.544733Z",
+    "dataset": "pubmed",
+    "tokens": [
+      "The",
+      "findings",
+      "of",
+      "this",
+      "study",
+      "show",
+      "that",
+      "the",
+      "optimal",
+      "cut",
+      "-",
+      "off",
+      "value",
+      "for",
+      "the",
+      "PNI",
+      "for",
+      "prognosis",
+      "differs",
+      "among",
+      "the",
+      "TNM",
+      "stages",
+      "and",
+      "that",
+      "the",
+      "preoperative",
+      "PNI",
+      "is",
+      "a",
+      "favorable",
+      "prognostic",
+      "factor",
+      "for",
+      "stage",
+      "I",
+      "HCC",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "evidence"
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "type": "epistemic"
+      },
+      {
+        "start": 7,
+        "end": 18,
+        "type": "factor"
+      },
+      {
+        "start": 18,
+        "end": 19,
+        "type": "association"
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "type": "factor"
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "type": "factor"
+      },
+      {
+        "start": 30,
+        "end": 31,
+        "type": "magnitude"
+      },
+      {
+        "start": 31,
+        "end": 34,
+        "type": "association"
+      },
+      {
+        "start": 34,
+        "end": 37,
+        "type": "factor"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 7,
+        "type": "arg1",
+        "tail": 8
+      },
+      {
+        "head": 7,
+        "type": "arg0",
+        "tail": 4
+      },
+      {
+        "head": 7,
+        "type": "modifier",
+        "tail": 6
+      },
+      {
+        "head": 7,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 7,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "type": "arg1",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "type": "arg0",
+        "tail": 5
+      }
+    ],
+    "attributes": [
+      {
+        "type": "indicates",
+        "entity": 7
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "576d1004-afbf-4e82-b84d-c2229acf7880",
+    "modified": "2020-12-04T22:52:22.583252Z",
+    "dataset": "pubmed",
+    "tokens": [
+      "Nonetheless",
+      ",",
+      "the",
+      "level",
+      "of",
+      "HDLc",
+      "was",
+      "negatively",
+      "associated",
+      "with",
+      "the",
+      "level",
+      "of",
+      "the",
+      "inflammatory",
+      "marker",
+      "MRP8/14",
+      ",",
+      "which",
+      "is",
+      "in",
+      "accordance",
+      "with",
+      "the",
+      "concept",
+      "of",
+      "inflammation",
+      "as",
+      "an",
+      "important",
+      "driver",
+      "for",
+      "premature",
+      "development",
+      "of",
+      "atherosclerosis",
+      "in",
+      "JIA",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 2,
+        "end": 6,
+        "type": "factor"
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "type": "magnitude"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "type": "association"
+      },
+      {
+        "start": 10,
+        "end": 17,
+        "type": "factor"
+      },
+      {
+        "start": 26,
+        "end": 27,
+        "type": "factor"
+      },
+      {
+        "start": 29,
+        "end": 30,
+        "type": "magnitude"
+      },
+      {
+        "start": 30,
+        "end": 32,
+        "type": "association"
+      },
+      {
+        "start": 32,
+        "end": 38,
+        "type": "factor"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 3
+      },
+      {
+        "head": 6,
+        "type": "arg0",
+        "tail": 4
+      },
+      {
+        "head": 6,
+        "type": "modifier",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "type": "arg1",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "type": "q-",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "type": "q+",
+        "tail": 7
+      }
+    ],
+    "attributes": [
+      {
+        "type": "correlation",
+        "entity": 2
+      },
+      {
+        "type": "sign-",
+        "entity": 2
+      },
+      {
+        "type": "sign+",
+        "entity": 6
+      },
+      {
+        "type": "correlation",
+        "entity": 6
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "38c49edf-67cf-4993-8c84-eacbf7837bbe",
+    "modified": "2020-12-05T01:30:50.698811Z",
+    "dataset": "pubmed",
+    "tokens": [
+      "There",
+      "was",
+      "no",
+      "difference",
+      "in",
+      "MHRs",
+      "between",
+      "study",
+      "and",
+      "control",
+      "groups",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 2,
+        "end": 3,
+        "type": "magnitude"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "association"
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "type": "factor"
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "type": "factor"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "factor"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "type": "arg0",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "type": "comp_to",
+        "tail": 4
+      }
+    ],
+    "attributes": [
+      {
+        "type": "comparison",
+        "entity": 1
+      },
+      {
+        "type": "correlation",
+        "entity": 1
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "2ee76b77-0885-43ca-9be5-dae657906299",
+    "text": "Both serum UA and lactate were positively correlated with the degree of hypoxia in OSAS.",
+    "notes": "",
+    "created": "2021-05-06T15:52:12.203593Z",
+    "modified": "2021-05-06T15:52:46.540231Z",
+    "relations": [
+      {
+        "head": 3,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "type": "arg0",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "type": "arg1",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "type": "q+",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "type": "q+",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 5
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "Both",
+      "serum",
+      "UA",
+      "and",
+      "lactate",
+      "were",
+      "positively",
+      "correlated",
+      "with",
+      "the",
+      "degree",
+      "of",
+      "hypoxia",
+      "in",
+      "OSAS",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 4,
+        "end": 5,
+        "type": "factor"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "type": "magnitude"
+      },
+      {
+        "start": 1,
+        "end": 3,
+        "type": "factor"
+      },
+      {
+        "start": 7,
+        "end": 9,
+        "type": "association"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "factor"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "qualifier"
+      }
+    ],
+    "attributes": [
+      {
+        "score": 0.584082841873169,
+        "type": "correlation",
+        "entity": 3
+      },
+      {
+        "type": "sign+",
+        "entity": 3
+      }
+    ],
+    "user": "annotator1"
+  },
+  {
+    "uuid": "3eaf64ec-61e9-47d1-8d70-2db2278e395c",
+    "text": "A minor increased risk of breast cancer was found in women with a history of uterine myoma.",
+    "notes": "",
+    "created": "2021-05-06T17:38:45.304528Z",
+    "modified": "2021-05-06T17:38:59.742947Z",
+    "relations": [
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "type": "arg0",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "type": "q+",
+        "tail": 2
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "A",
+      "minor",
+      "increased",
+      "risk",
+      "of",
+      "breast",
+      "cancer",
+      "was",
+      "found",
+      "in",
+      "women",
+      "with",
+      "a",
+      "history",
+      "of",
+      "uterine",
+      "myoma",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 1,
+        "end": 2,
+        "type": "magnitude"
+      },
+      {
+        "start": 2,
+        "end": 3,
+        "type": "association"
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "type": "factor"
+      },
+      {
+        "start": 10,
+        "end": 17,
+        "type": "factor"
+      }
+    ],
+    "attributes": [
+      {
+        "score": 0.7897837162017822,
+        "type": "sign+",
+        "entity": 1
+      }
+    ],
+    "user": "annotator1"
+  },
+  {
+    "uuid": "6736db65-9b8f-4baa-8f66-ab35babc42a6",
+    "text": "Daily glucose fluctuation may have an effect on coronary plaque vulnerability in patients with CAD pre-treated with lipid-lowering therapy.",
+    "notes": "",
+    "created": "2021-05-12T13:46:11.023759Z",
+    "modified": "2021-05-12T13:46:35.531214Z",
+    "relations": [
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "type": "arg0",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 4
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "Daily",
+      "glucose",
+      "fluctuation",
+      "may",
+      "have",
+      "an",
+      "effect",
+      "on",
+      "coronary",
+      "plaque",
+      "vulnerability",
+      "in",
+      "patients",
+      "with",
+      "CAD",
+      "pre",
+      "-",
+      "treated",
+      "with",
+      "lipid",
+      "-",
+      "lowering",
+      "therapy",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 3,
+        "end": 4,
+        "type": "magnitude"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "type": "association"
+      },
+      {
+        "start": 0,
+        "end": 3,
+        "type": "factor"
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "type": "factor"
+      },
+      {
+        "start": 11,
+        "end": 23,
+        "type": "qualifier"
+      }
+    ],
+    "attributes": [
+      {
+        "score": 0.7697216272354126,
+        "type": "causation",
+        "entity": 1
+      }
+    ],
+    "user": "annotator1"
+  },
+  {
+    "uuid": "0a4968eb-df2a-41d3-a6b2-74a50f77c630",
+    "text": "Thus, CETP gene variation may affect coronary risk apart from the level of HDL-C",
+    "notes": "",
+    "created": "2021-05-12T13:52:29.785743Z",
+    "modified": "2021-05-12T13:53:13.781022Z",
+    "relations": [
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "type": "arg0",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "type": "modifier",
+        "tail": 5
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "Thus",
+      ",",
+      "CETP",
+      "gene",
+      "variation",
+      "may",
+      "affect",
+      "coronary",
+      "risk",
+      "apart",
+      "from",
+      "the",
+      "level",
+      "of",
+      "HDL",
+      "-",
+      "C"
+    ],
+    "entities": [
+      {
+        "start": 5,
+        "end": 6,
+        "type": "magnitude"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "type": "association"
+      },
+      {
+        "start": 7,
+        "end": 9,
+        "type": "factor"
+      },
+      {
+        "start": 2,
+        "end": 5,
+        "type": "factor"
+      },
+      {
+        "start": 11,
+        "end": 17,
+        "type": "factor"
+      },
+      {
+        "start": 9,
+        "end": 17,
+        "type": "qualifier"
+      }
+    ],
+    "attributes": [
+      {
+        "score": 0.9185765385627747,
+        "type": "causation",
+        "entity": 1
+      }
+    ],
+    "user": "annotator1"
+  },
+  {
+    "uuid": "a90d7ae5-6f26-4ced-8940-7074c78f7e3a",
+    "text": "Also, these fatty acids may able to decrease serum hs-CRP and LDL cholesterol.",
+    "notes": "",
+    "created": "2021-05-12T13:53:23.759704Z",
+    "modified": "2021-05-12T13:53:48.820976Z",
+    "relations": [
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 5
+      },
+      {
+        "head": 4,
+        "type": "q-",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "type": "q-",
+        "tail": 5
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "Also",
+      ",",
+      "these",
+      "fatty",
+      "acids",
+      "may",
+      "able",
+      "to",
+      "decrease",
+      "serum",
+      "hs",
+      "-",
+      "CRP",
+      "and",
+      "LDL",
+      "cholesterol",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 5,
+        "end": 6,
+        "type": "magnitude"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "type": "magnitude"
+      },
+      {
+        "start": 8,
+        "end": 9,
+        "type": "association"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "factor"
+      },
+      {
+        "start": 2,
+        "end": 5,
+        "type": "factor"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "factor"
+      }
+    ],
+    "attributes": [
+      {
+        "score": 0.833741307258606,
+        "type": "sign-",
+        "entity": 2
+      },
+      {
+        "score": 0.7929626703262329,
+        "type": "causation",
+        "entity": 2
+      }
+    ],
+    "user": "annotator1"
+  },
+  {
+    "uuid": "25693fbd-b42a-46af-89dd-88638508ee53",
+    "text": "Persistence of an acute phase response was also correlated with an adverse lipid profile.",
+    "notes": "",
+    "created": "2021-05-12T14:07:42.927875Z",
+    "modified": "2021-05-12T14:08:16.791662Z",
+    "relations": [
+      {
+        "head": 0,
+        "type": "arg1",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "type": "arg0",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "type": "q+",
+        "tail": 1
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "Persistence",
+      "of",
+      "an",
+      "acute",
+      "phase",
+      "response",
+      "was",
+      "also",
+      "correlated",
+      "with",
+      "an",
+      "adverse",
+      "lipid",
+      "profile",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 8,
+        "end": 10,
+        "type": "association"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "type": "factor"
+      },
+      {
+        "start": 0,
+        "end": 6,
+        "type": "factor"
+      }
+    ],
+    "attributes": [
+      {
+        "score": 0.8525024652481079,
+        "type": "correlation",
+        "entity": 0
+      },
+      {
+        "type": "sign+",
+        "entity": 0
+      }
+    ],
+    "user": "annotator1"
+  },
+  {
+    "uuid": "d299e65c-3ba2-400c-bb88-650ec74bae99",
+    "text": "This study provides evidence that higher intensity statins are beneficial for cardiovascular outcomes in patients with stable CAD and very low LDL-C.",
+    "notes": "",
+    "modified": "2021-05-13T15:13:56.319582Z",
+    "dataset": "pubmed",
+    "tokens": [
+      "This",
+      "study",
+      "provides",
+      "evidence",
+      "that",
+      "higher",
+      "intensity",
+      "statins",
+      "are",
+      "beneficial",
+      "for",
+      "cardiovascular",
+      "outcomes",
+      "in",
+      "patients",
+      "with",
+      "stable",
+      "CAD",
+      "and",
+      "very",
+      "low",
+      "LDL",
+      "-",
+      "C."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "evidence"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "type": "epistemic"
+      },
+      {
+        "start": 5,
+        "end": 8,
+        "type": "factor"
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "type": "association"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "factor"
+      },
+      {
+        "start": 13,
+        "end": 24,
+        "type": "qualifier"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "type": "arg1",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "type": "arg0",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 5
+      }
+    ],
+    "attributes": [],
+    "user": "annotator1"
+  },
+  {
+    "uuid": "bce876ab-d4c0-45f5-9113-ca3940bc7f6f",
+    "modified": "2021-05-13T15:18:10.741265Z",
+    "dataset": "pubmed",
+    "tokens": [
+      "Our",
+      "findings",
+      "suggest",
+      "that",
+      "Mg",
+      "may",
+      "inhibit",
+      "vascular",
+      "calcification",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "evidence"
+      },
+      {
+        "start": 2,
+        "end": 3,
+        "type": "epistemic"
+      },
+      {
+        "start": 4,
+        "end": 5,
+        "type": "factor"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "type": "association"
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "type": "magnitude"
+      },
+      {
+        "start": 7,
+        "end": 9,
+        "type": "factor"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "type": "arg1",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "type": "arg0",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "type": "q-",
+        "tail": 5
+      }
+    ],
+    "attributes": [
+      {
+        "type": "sign-",
+        "entity": 3
+      },
+      {
+        "type": "causation",
+        "entity": 3
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "83e8d1dd-e1b8-49f4-88d5-1dc5e7613c85",
+    "modified": "2021-05-13T15:22:03.329594Z",
+    "dataset": "pubmed",
+    "tokens": [
+      "Findings",
+      "of",
+      "this",
+      "study",
+      "showed",
+      "that",
+      "a",
+      "consumer",
+      "education",
+      "program",
+      "increased",
+      "participants",
+      "use",
+      "of",
+      "the",
+      "NRF",
+      "approach",
+      "and",
+      "improved",
+      "diet",
+      "quality",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "evidence"
+      },
+      {
+        "start": 4,
+        "end": 5,
+        "type": "epistemic"
+      },
+      {
+        "start": 6,
+        "end": 10,
+        "type": "factor"
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "type": "association"
+      },
+      {
+        "start": 11,
+        "end": 17,
+        "type": "factor"
+      },
+      {
+        "start": 18,
+        "end": 19,
+        "type": "association"
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "type": "factor"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "type": "arg0",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "type": "arg1",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 5,
+        "type": "arg1",
+        "tail": 6
+      },
+      {
+        "head": 5,
+        "type": "modifier",
+        "tail": 0
+      },
+      {
+        "head": 5,
+        "type": "arg0",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "type": "q+",
+        "tail": 4
+      }
+    ],
+    "attributes": [
+      {
+        "type": "causation",
+        "entity": 3
+      },
+      {
+        "type": "causation",
+        "entity": 5
+      },
+      {
+        "type": "sign+",
+        "entity": 3
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "366d4f15-d293-476e-ad65-18003f1d3a87",
+    "modified": "2021-05-13T15:41:49.457067Z",
+    "dataset": "pubmed",
+    "tokens": [
+      "AHI",
+      "contributed",
+      "to",
+      "higher",
+      "AIP",
+      "level"
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 1,
+        "type": "factor"
+      },
+      {
+        "start": 3,
+        "end": 4,
+        "type": "association"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "type": "factor"
+      },
+      {
+        "start": 1,
+        "end": 3,
+        "type": "association"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "type": "q+",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "type": "arg1",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "type": "arg0",
+        "tail": 0
+      }
+    ],
+    "attributes": [
+      {
+        "type": "causation",
+        "entity": 3
+      },
+      {
+        "type": "sign+",
+        "entity": 1
+      },
+      {
+        "type": "comparison",
+        "entity": 1
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "94a45f6d-1139-4147-a0d3-88456e1a57d4",
+    "modified": "2021-05-13T15:51:38.510531Z",
+    "dataset": "pubmed",
+    "tokens": [
+      "TyG",
+      "is",
+      "effective",
+      "to",
+      "identify",
+      "individuals",
+      "at",
+      "risk",
+      "for",
+      "NAFLD",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 1,
+        "type": "factor"
+      },
+      {
+        "start": 5,
+        "end": 10,
+        "type": "factor"
+      },
+      {
+        "start": 4,
+        "end": 5,
+        "type": "association"
+      },
+      {
+        "start": 2,
+        "end": 3,
+        "type": "magnitude"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 1
+      }
+    ],
+    "attributes": [
+      {
+        "type": "indicates",
+        "entity": 2
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "fd19b135-dc2d-405a-8ff5-f4fc904ad02a",
+    "modified": "2021-05-13T16:10:34.948692Z",
+    "dataset": "pubmed",
+    "tokens": [
+      "The",
+      "specific",
+      "fatty",
+      "acid",
+      "pattern",
+      "may",
+      "be",
+      "influenced",
+      "by",
+      "metabolic",
+      ",",
+      "genetic",
+      ",",
+      "and",
+      "dietary",
+      "factors"
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "factor"
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "type": "magnitude"
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "type": "association"
+      },
+      {
+        "start": 9,
+        "end": 10,
+        "type": "factor"
+      },
+      {
+        "start": 11,
+        "end": 12,
+        "type": "factor"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "factor"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 5
+      }
+    ],
+    "attributes": [
+      {
+        "type": "causation",
+        "entity": 2
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "72573994-97db-41f6-b027-b13e6f42564d",
+    "modified": "2021-05-13T16:19:34.895746Z",
+    "dataset": "pubmed",
+    "tokens": [
+      "The",
+      "AusHSI",
+      "process",
+      "has",
+      "minimised",
+      "the",
+      "time",
+      "from",
+      "submission",
+      "to",
+      "notification",
+      "of",
+      "funding",
+      "outcomes",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "factor"
+      },
+      {
+        "start": 4,
+        "end": 5,
+        "type": "association"
+      },
+      {
+        "start": 5,
+        "end": 14,
+        "type": "factor"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "type": "q-",
+        "tail": 2
+      }
+    ],
+    "attributes": [
+      {
+        "type": "sign-",
+        "entity": 1
+      },
+      {
+        "type": "causation",
+        "entity": 1
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  },
+  {
+    "uuid": "63904db1-ecdc-405f-a492-6518b2537a40",
+    "text": "The mid-pregnancy HbA1c level was associated with various adverse pregnancy outcomes in high-risk Taiwanese women.",
+    "notes": "",
+    "created": "2021-05-06T16:19:56.525372Z",
+    "modified": "2021-05-20T18:38:25.110204Z",
+    "relations": [
+      {
+        "head": 0,
+        "type": "arg1",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "type": "arg0",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "type": "modifier",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "type": "q+",
+        "tail": 1
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "The",
+      "mid",
+      "-",
+      "pregnancy",
+      "HbA1c",
+      "level",
+      "was",
+      "associated",
+      "with",
+      "various",
+      "adverse",
+      "pregnancy",
+      "outcomes",
+      "in",
+      "high",
+      "-",
+      "risk",
+      "Taiwanese",
+      "women",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 7,
+        "end": 9,
+        "type": "association"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "type": "factor"
+      },
+      {
+        "start": 0,
+        "end": 6,
+        "type": "factor"
+      },
+      {
+        "start": 13,
+        "end": 19,
+        "type": "qualifier"
+      }
+    ],
+    "attributes": [
+      {
+        "score": 0.669478178024292,
+        "type": "correlation",
+        "entity": 0
+      },
+      {
+        "type": "sign+",
+        "entity": 0
+      }
+    ],
+    "user": "annotator1"
+  },
+  {
+    "uuid": "f5681237-dc49-405b-a586-51f4395bdc22",
+    "text": "Worse QOL was correlated with poorer values for FEF 25-75%.",
+    "notes": "",
+    "created": "2021-05-12T13:16:13.791701Z",
+    "modified": "2021-05-20T18:42:46.782953Z",
+    "relations": [
+      {
+        "head": 0,
+        "type": "arg1",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "type": "arg1",
+        "tail": 2
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "Worse",
+      "QOL",
+      "was",
+      "correlated",
+      "with",
+      "poorer",
+      "values",
+      "for",
+      "FEF",
+      "25",
+      "-",
+      "75",
+      "%",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 1,
+        "type": "association"
+      },
+      {
+        "start": 1,
+        "end": 2,
+        "type": "factor"
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "type": "association"
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "type": "association"
+      },
+      {
+        "start": 6,
+        "end": 13,
+        "type": "factor"
+      }
+    ],
+    "attributes": [
+      {
+        "score": 0.5096808075904846,
+        "type": "comparison",
+        "entity": 2
+      },
+      {
+        "score": 0.7175055146217346,
+        "type": "correlation",
+        "entity": 3
+      },
+      {
+        "type": "comparison",
+        "entity": 0
+      },
+      {
+        "type": "sign+",
+        "entity": 3
+      }
+    ],
+    "user": "annotator1"
+  },
+  {
+    "uuid": "8bf1784b-24b0-4c62-922f-1cf590eaa54d",
+    "text": "However, supplementation of 1 RDA before and 2 RDAs after surgery resulted in better improvements on iron metabolism.",
+    "notes": "",
+    "created": "2021-05-12T13:40:29.892399Z",
+    "modified": "2021-05-25T18:02:13.602056Z",
+    "relations": [
+      {
+        "head": 0,
+        "type": "arg1",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "type": "arg1",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "type": "arg0",
+        "tail": 5
+      }
+    ],
+    "dataset": "pubmed",
+    "tokens": [
+      "However",
+      ",",
+      "supplementation",
+      "of",
+      "1",
+      "RDA",
+      "before",
+      "and",
+      "2",
+      "RDAs",
+      "after",
+      "surgery",
+      "resulted",
+      "in",
+      "better",
+      "improvements",
+      "on",
+      "iron",
+      "metabolism",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 14,
+        "end": 15,
+        "type": "association"
+      },
+      {
+        "start": 15,
+        "end": 16,
+        "type": "association"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "association"
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "type": "factor"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "type": "factor"
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "type": "factor"
+      }
+    ],
+    "attributes": [
+      {
+        "score": 0.5030361413955688,
+        "type": "comparison",
+        "entity": 0
+      },
+      {
+        "score": 0.49419301748275757,
+        "type": "causation",
+        "entity": 2
+      },
+      {
+        "type": "sign+",
+        "entity": 2
+      }
+    ],
+    "user": "annotator1"
+  },
+  {
+    "uuid": "bf17dfec-d5ff-4d63-ab9b-ea1002ec8d70",
+    "modified": "2021-05-25T18:02:48.490564Z",
+    "dataset": "pubmed",
+    "tokens": [
+      "Wheatgrass",
+      "supplementation",
+      "at",
+      "a",
+      "dose",
+      "of",
+      "3.5",
+      "g",
+      "per",
+      "day",
+      "for",
+      "a",
+      "period",
+      "of",
+      "10",
+      "weeks",
+      "results",
+      "in",
+      "significant",
+      "reductions",
+      "in",
+      "Apo",
+      "B",
+      "fraction",
+      ",",
+      "TC",
+      ",",
+      "and",
+      "TAG",
+      "without",
+      "significantly",
+      "reducing",
+      "the",
+      "HDL",
+      "cholesterol",
+      "."
+    ],
+    "entities": [
+      {
+        "start": 0,
+        "end": 16,
+        "type": "factor"
+      },
+      {
+        "start": 18,
+        "end": 19,
+        "type": "magnitude"
+      },
+      {
+        "start": 19,
+        "end": 20,
+        "type": "association"
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "type": "factor"
+      },
+      {
+        "start": 25,
+        "end": 26,
+        "type": "factor"
+      },
+      {
+        "start": 28,
+        "end": 29,
+        "type": "factor"
+      },
+      {
+        "start": 29,
+        "end": 30,
+        "type": "magnitude"
+      },
+      {
+        "start": 30,
+        "end": 31,
+        "type": "magnitude"
+      },
+      {
+        "start": 31,
+        "end": 32,
+        "type": "association"
+      },
+      {
+        "start": 32,
+        "end": 35,
+        "type": "factor"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "association"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "type": "modifier",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 5
+      },
+      {
+        "head": 8,
+        "type": "modifier",
+        "tail": 7
+      },
+      {
+        "head": 8,
+        "type": "modifier",
+        "tail": 6
+      },
+      {
+        "head": 8,
+        "type": "arg1",
+        "tail": 9
+      },
+      {
+        "head": 8,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "type": "arg1",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "type": "q-",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "type": "q-",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "type": "q-",
+        "tail": 5
+      },
+      {
+        "head": 10,
+        "type": "arg0",
+        "tail": 0
+      },
+      {
+        "head": 10,
+        "type": "arg1",
+        "tail": 2
+      }
+    ],
+    "attributes": [
+      {
+        "type": "sign-",
+        "entity": 8
+      },
+      {
+        "type": "causation",
+        "entity": 8
+      },
+      {
+        "type": "sign-",
+        "entity": 2
+      },
+      {
+        "type": "causation",
+        "entity": 10
+      },
+      {
+        "type": "sign+",
+        "entity": 10
+      }
+    ],
+    "notes": "",
+    "user": "annotator1"
+  }
+]
